@@ -1,0 +1,21 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Karen Safire",
+            "prof_id": 1583,
+            "total_reviews": 2
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": "beginning yoga",
+            "review_date": "April 29, 2003",
+            "review_content": "\ni adored this course with karen. she is so nice and encouraging to everybody, and she helps those people who are less flexible without dumbing down the class for people who know what they're doing. this class has been the only thing i consistently looked forward to doing this semester. i highly recommend her.\nWorkload:\nn/a\n"
+        },
+        {
+            "course_name": "beginning yoga",
+            "review_date": "April 29, 2003",
+            "review_content": "\nGreat professor, really sweet. Strict about attendance, but they all are.  This class was a lot of fun. I Highly recommend it.\nWorkload:\nBend and flex baby.\n"
+        }
+    ]
+}

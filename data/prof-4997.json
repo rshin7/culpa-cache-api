@@ -1,0 +1,16 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Rama Cont",
+            "prof_id": 4997,
+            "total_reviews": 1
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": "Continuous time models in finance",
+            "review_date": "January 07, 2009",
+            "review_content": "\nI took 3 MS courses by Rama Cont this year in the MS FInancial Engineering program at Columbia University. His courses are fantastic. He made me interested in all the topics he taught: option pricing, stochastic calculus, time series, GARCH, Poisson processes,... He masters the topic and makes connections with finance all the time, which makes the course lively.  On the other hand, beware of the assignments and exams: they are tough especially in stochastic calculus.\n Luckily I had taken this course before.\nAlso: he doesnt use a textbook. He teaches some stuff from the Shreve book Vol 2 for stochastic calculus/options but not consistently. But he gives out his own notes (handwritten ) which are great. Dont miss any course though you will be lost...\n\nWorkload:\nWorkload is heavy: assignments every week or every other week, some involving programming also. \n"
+        }
+    ]
+}

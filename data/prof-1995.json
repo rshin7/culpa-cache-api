@@ -1,0 +1,26 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Dan Heyman",
+            "prof_id": 1995,
+            "total_reviews": 3
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": "Intro Probability/Statistics",
+            "review_date": "July 03, 2004",
+            "review_content": "\noh man, this dude doesn't know how to teach!! yes, he is a nice old man but he was so dissappointing as a professor. I was able to tell on the first day of class he wasn't around school for a very very long time. I once showed up for his class 5 minutes late in the middle of the semester, and i was able to count 5 students in the classroom. As someone else mentioned, he specifically said \"counting is not my specialty.\" Although reading off the textbook, he repeatedly made simple counting errors so many times. For our first miderm, he couldn't open the entrance door to the exam site that everyone started the 70minute exam 30 minutes late. Also, so many people were able to cheat during tests. \nBasically, professor Heyman wasn't prepared to teach this course. He is very out of touch with today's students and i wasn't really sure if he knew what he was teaching either. Don't get me wrong but this is not personal. He seems like a very nice man but not the professor you would want as a professor. I was so pissed at one point that I was going to petition the IEOR department for giving us such a horrible professor. This course probably has the lowest course number in the IEOR department, but SIEO 3600 is a pre-requisite course for almost all the other IEOR courses and the department shouldn't have ever try to experiment us with professor Heyman. \nWorkload:\nnot bad. The grading is not bad at all if you are just trying to pull off a good grade from this course. But be aware IEOR mojars since you need to know your prob stat really well in order to do well in future courses.\n"
+        },
+        {
+            "course_name": "Prob and Stat",
+            "review_date": "June 21, 2004",
+            "review_content": "\nThis class was truly painful.  Heyman's lectures seem like they are a form of Medieval torture.  However, you can skip class and still manage to do well.  The homework is not too bad, and if you do the assignemnts, exams are fairly easy.  I walked out of the class with an A+ because I was smart enough not to listen to Heyman.\nWorkload:\nWeekly problem sets--sometimes long but not hard.  Exams are easy especially if you look over the problem sets and solutions posted online.\n"
+        },
+        {
+            "course_name": "Probability and statistics",
+            "review_date": "February 17, 2004",
+            "review_content": "\nHe is one of the worst professors I have ever had - very nice guy, but seems absolutely stupid. He doesn't know the material and has even been known to say \"counting is not one of my strengths.\" He frequently makes mistakes on example problems - even if he just copied the text book verbatim, it would be a better class. \nHe does not structure exams or homeworks well at all and there seems to be a dichotomy between class work and material for tests/homework. Avoid him if possible\nWorkload:\nWeekly problem set that can take between 2-5 hours, a frustrating experience. 2 midterms and final\n"
+        }
+    ]
+}

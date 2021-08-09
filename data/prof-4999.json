@@ -1,0 +1,16 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Donald Goldfarb",
+            "prof_id": 4999,
+            "total_reviews": 1
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": "Intro to OR: Deterministic Models",
+            "review_date": "May 17, 2010",
+            "review_content": "\nProfessor Goldfarb taught otherwise dry material as best as he could, and in a very clear logical progression of concepts. The lectures got very difficult at certain points, as he talked about linear programming from an abstract linear algebra perspective. Fortunately, these difficult foundational concepts weren't examined. The free book, along with the parts of his posted lecture slides that explained how to do the problems from a practical perspective, generally taught each concept very well.\nThe overall difficulty was moderate, with somewhat tricky exams and long but easyish homeworks (if you put the time in to read the requisite chapter). Goldfarb himself was extremely helpful with any questions I had, and amiable as well. Grading was easy, with a large curve to boot.\nI hear he was a lot more difficult in the past, but deliberately held back this year (and presumably in future years too).\nOverall: Take this over the other deterministic models courses, you won't regret it.\nWorkload:\nHomeworks: about 7, assigned with a week + to turn each one in. Each was fairly focused, and therefore easy to do if you read through the book. Most took under 4 hours, though a couple took longer.\nExams: Fairly easy, and curved. Covered the same sort of concepts as the homeworks and with ample review (in-class and posted past exams) given.\n"
+        }
+    ]
+}

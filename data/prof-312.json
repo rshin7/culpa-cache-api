@@ -1,0 +1,21 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Donald Davis",
+            "prof_id": 312,
+            "total_reviews": 2
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": "Senior Seminar",
+            "review_date": "March 12, 2015",
+            "review_content": "\nI had professor Davis for an economics of New York City senior seminar. Based upon the readings he assigns, he wants his students to learn how economics operates as a general social science, rather then something about only about money, products, and services. The message of the class way something like: \"there are alot of problems out there in the world, and you are equipped as an economist to solve those problems with all the things you have learned.\"  \nWorkload:\nReadings every week with a mandatory blog submission associated with each text. In conclusion to the class, there is a final paper coupled with a final presentation to the class. \n"
+        },
+        {
+            "course_name": "Globalization, Incomes, and Inequality",
+            "review_date": "December 31, 1999",
+            "review_content": "\nYou would think this class would be interesting just by looking at the course's title, but it really isn't as exciting as it sounds. This is definitely one of those 'don't judge a book by its cover' sort of deals. Lectures can come off as somewhat awkward and uninspiring. Although, I have to say that the entire economics department really is pretty weak, so this elective is going to be about as good as it gets.\n"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Ester Fuchs",
+            "prof_id": 214,
+            "total_reviews": 4
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": null,
+            "review_date": null,
+            "review_content": null
+        },
+        {
+            "course_name": "American Parties and Elections",
+            "review_date": "January 27, 2002",
+            "review_content": "\nWhile I had been very excited about having Fuchs as a professor, I was very disappointed with her lack of interest in the class. Because of the combination of Jewish Holidays and her involvement in the mayoral campaign, she cancelled many classes and rescheduled them for Fridays--this happened on an almost weekly basis. She seemed to love the SIPA and PhD students and ignore the undergrads. Her phone would ring every single class. HOWEVER, she was a great lecturer. She is a very liberal woman and very outspoken and definitely interesting---in those rare moments when she gets into the class. Perhaps this particular class was just during a bad semester for her, but I was very disappointed in her, as was the rest of the class, perhaps b/c her reputation led us to have great expectations about her.\nWorkload:\nMidterm and Final--fair sized amount of reading that most people did, but I didn't find it necessary until skimming it before the exams. \n"
+        },
+        {
+            "course_name": "Colloquium on Contemporary Urban Problems",
+            "review_date": "December 31, 1999",
+            "review_content": "\nExcellent readings on public policy issues that deal with racial politics, poverty, economics, etc of cities. Fuchs loves discussion and really makes you think before you speak. She is very supportive about new ideas as long as they're backed up by facts. Another good thing about her is that she's part of many New York area political \"think tanks\", so she really knows her shit about current issues. The only problem with her is that she loves to hear herself speak and enthusiastically supports heated discussions between herself and students (slightly intimidating).\n"
+        },
+        {
+            "course_name": "Colloquium on the Shaping of the Modern City",
+            "review_date": "December 31, 1999",
+            "review_content": "\nA very knowledgeable and well-known professor who is over-extended and over-committed. In seminar she can be engaging, but is occasionally too opinionated, leaving those who disagree with her frustrated and alienated. Is not prompt in returning papers and assignments, but is therefore flexible with deadlines. Some people love her, others hate her. Is a good person to know and can be very helpful if you are interested in local community/political work.\n"
+        }
+    ]
+}

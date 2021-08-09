@@ -1,0 +1,26 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Sharon Goldsmith",
+            "prof_id": 406,
+            "total_reviews": 3
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": "Organic Chemistry I",
+            "review_date": "January 28, 2002",
+            "review_content": "\nI had her the first semester she was at Barnard. She came into the classroom, nervous and flustered, and then proceeded to don a very business-like serious manner of teaching. When asked a question, she flustered again, blinked twice, asked the student to repeat the question, and then said, \"this is not relevant to the course.\" She did this numerous times during the semester, and almost NEVER answered a single student-raised question in class. I find this very disheartening as a student and discourages class participation.\nWorkload:\nThree midterms and a final. Don't take this if you dont have to.\n"
+        },
+        {
+            "course_name": "Organic Chemistry I",
+            "review_date": "April 21, 2001",
+            "review_content": "\nIf you have a choice, don't take this one. Goldsmith is cute up by the board, and she know the material, but most of the time, she sounds like she is reading from a textbook, like she has the stuff memorized. When you ask a question, you get a mechanical, memorized answer, as if you're just reading the same sentence over again in a book. It's difficult to follow the logic of the material if you don't read the textbook, which is clearer (and far more entertaining) than she is.\nWorkload:\nThree midterms, one final.\n"
+        },
+        {
+            "course_name": "Organic Chemistry II",
+            "review_date": "December 31, 1999",
+            "review_content": "\nA straightforward, businesslike lecturer who explains things clearly. She is neither scintillating nor as boring as my Orgo I professor. The problem sets are extremely difficult but not mandatory, and the exams are thorough and difficult but not devious. Like with any Orgo class, DO YOUR PROBLEM SETS.\nWorkload:\nThree midterms, one final; optional problem sets\n"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Scott Calabrese",
+            "prof_id": 1219,
+            "total_reviews": 2
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": "1040",
+            "review_date": "April 27, 2004",
+            "review_content": "\nBarton is really nice. EASY CLASS. Real easy. For all ChemEs, this will be the easiest class EVER.\nWorkload:\nHomework (where if you put anything down you get a perfect score) 1 Midterm\n"
+        },
+        {
+            "course_name": "Molecular Engineering & Product Design",
+            "review_date": "October 03, 2002",
+            "review_content": "\nVery approachable, kept material interesting (although a couple of the guest speakers were a bit dull). Looking forward to having him for future courses. I highly recommend the course to all ChemEs, as well as to any other engineers who are looking for a good pre-professional course, and aren't scared of a little chemistry.\nWorkload:\nOccasional problem sets, which weren't terribly difficult. A midterm in similar style. No final exam, but a small final group project, which didn't require too much work. Workload overall light. [Reviewer A] \n"
+        }
+    ]
+}

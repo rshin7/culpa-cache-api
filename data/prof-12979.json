@@ -1,0 +1,21 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Alison Baren",
+            "prof_id": 12979,
+            "total_reviews": 2
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": "Perception Lab",
+            "review_date": "January 17, 2015",
+            "review_content": "\nAlison is the most unreasonable, unqualified, and actually kind of petty instructor I have ever had. She got hung up on such small details of APA style and she was never consistent. Her lectures were twice as long as they should have been because she talks way too much and takes these weird pauses between every two words. \nWorkload:\nweekly lab papers (usually only one section) and a final lab full lab report\n"
+        },
+        {
+            "course_name": "Perception Lab",
+            "review_date": "October 22, 2014",
+            "review_content": "\nThis is the first lab I have ever taken and while she does talk us through the majority of the steps, talks for way too long and gives us so many contradicting suggestions that nothing she says ever makes sense. She seems very willing to help with any questions you may have via e-mail and will even review your lab report drafts prior to the due date with very helpful criticism but seems to enjoy taking points off of you. She constantly contradicts herself and makes lab more challenging than it already is. \nWilling to help yet makes things unnecessarily more difficult. \nI absolutely hated this lab and the experiments were also very dry and uninteresting. If you can avoid this lab, do so. \nWorkload:\nWeekly Lab Report (sometimes just introduction, just results, just method or method + discussion etc.) \n"
+        }
+    ]
+}

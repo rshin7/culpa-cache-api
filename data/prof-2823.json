@@ -1,0 +1,21 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Jeremiah Johnson",
+            "prof_id": 2823,
+            "total_reviews": 2
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": "General Chemistry I",
+            "review_date": "January 18, 2007",
+            "review_content": "\nIf Jeremiah's extensive knowledge and proficiency in Chemistry does not sweep you off your feet, his mysterious blue eyes will certainly do the trick... He is excellent at answering questions and a very fair grader.  Weekly quizzes are not too difficult, but indeed you must have a brain and some concept of the subject matter in order to succeed in the class.  I highly recommend the experience.\n"
+        },
+        {
+            "course_name": "General Chemistry I",
+            "review_date": "January 14, 2006",
+            "review_content": "\nJeremiah wasn't happy about being a Chem I TA and he let it show throughout the course.  Each week, he simply administered quizzes, with a begrudging \"Any questions?  No, okay great.\"  On the occasions when he deigned to answer questions, he was condescending, but competent.  He wasn't very timely with email responses or posting if there was a quiz during a particular week. \nWorkload:\nWhatever the professor requires, no more, no less.\n"
+        }
+    ]
+}

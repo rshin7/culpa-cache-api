@@ -1,0 +1,26 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Lucy Robinson",
+            "prof_id": 1607,
+            "total_reviews": 3
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": "Introduction to Statistics (A)",
+            "review_date": "July 07, 2006",
+            "review_content": "\nI took Lucy's summer intro stats course.  Since it was a 6-\nweek  class it was a lot of work but Lucy made it quite pleasant.  Very fair tests, ample office hours, generous curve.  I was warned about how awful and boring statistics class would be and I ended up loving it!  Do anything you can to register for her section.\n"
+        },
+        {
+            "course_name": "Statistical Inference 4107 Fall 2005",
+            "review_date": "February 08, 2006",
+            "review_content": "\nLucy's a great TA.  She held recitation every week and was so helpful in doing examples and explaining the material (some people found her even more helpful than the professor).  While she does have a \"valley-girl\" accent that could be distracting on occasion, she knows her stuff and went out of her way to make sure we understood what was going on.  \nWorkload:\nHomework every week, one midterm, two quizzes.  Difficult.\n"
+        },
+        {
+            "course_name": "Intro to Stats -- TA",
+            "review_date": "May 10, 2003",
+            "review_content": "\nI found Lucy to be both enthusiastic and helpful.  All emails were reponded to quickly, and she was always extremely helpful outside of class.  Grading was fair, and she was more than willing to go over all homework assignments and exams.  If she is TAing a stats class, take it!!\n"
+        }
+    ]
+}

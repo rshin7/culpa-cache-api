@@ -1,0 +1,26 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Ines Basalo",
+            "prof_id": 5517,
+            "total_reviews": 3
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": "Computer Graphics and Design",
+            "review_date": "July 01, 2011",
+            "review_content": "\nThe material in this class is actually very easy to learn. The methods of instruction make the class tough. It works best to ascertain what tool they're trying to teach you to use, and then dink around with it, with no particular goal, for 20 minutes. This method is much faster than painstakingly following the tutorials. The homework is graded with a shocking level of arbitrariness. No grading distinction is made between a minuscule typo and a glaring conceptual error (such as using the entirely wrong tool to create completely wrong shape) - both of the above earn you 10 points off. On 2D drawings, it is almost impossible to do it \"right;\" there are 7 or 8 possible arrangements of dimensions and leader lines that are equally valid, yet she will arbitrarily select one of those combinations as \"right.\" Ergo you have \nat best a 1/7 chance of receiving full credit, even if you understand the material fully. Same story on the grading of the tests. Worse still, grade grubbing is working less and less well with Basalo every semester - she's getting a hard heart. \nWorkload:\n3 giant pain-in-the-ass HW assignments, 2 easy (but brutally graded quizzes), 1 final project\n"
+        },
+        {
+            "course_name": "Computer Graphics and Design",
+            "review_date": "May 14, 2011",
+            "review_content": "\nProfessor Basalo was a solid teacher but she had a problem describing what she wanted for each assignment.  Her online tutorials and lectures can be vague at points and if you do not ask questions she will not tell you things.  That said she will explain things if you do ask.  And if you attend the class and complete the daily tutorials you will be fine for the homeworks and exams.  \nClass work consisted of tutorials every day.  Home work consisted of 5 assignments throughout the semester.  There were two exams (one midterm and one right before the end of the course) with 3 problems each.  There is also a final project which you are supposed to complete throughout the semester.\nWorkload:\nClass work consisted of tutorials every day.  Home work consisted of 5 assignments throughout the semester.  There were two exams (one midterm and one right before the end of the course) with 3 problems each.  There is also a final project which you are supposed to complete throughout the semester.\n"
+        },
+        {
+            "course_name": "Mechanical Engineering Lab I",
+            "review_date": "January 05, 2011",
+            "review_content": "\nInes is pretty good at conveying the lecture part of this class. Her notes are well organized and quite readable. Only the statistics part of lecture is on the test. In lab itself, she is not helpful at all. Any technical question you have will be referred to Bob. You should avoid interacting with Ines in lab because she mostly tells you you're doing it wrong and costs you time. Generally the way you were doing it worked fine, but now you have to spend another half hour doing it again.\nWorkload:\n1 Midterm: 2 statistics problems, a bunch of short answer \"describe the lab you did\" questions\n5 Lab reports: Really, really arbitrary grading convention. Penalties for style, spelling, etc. You must get a very good grade on the first one so the TA's learn that your group is \"good\" and look for fewer things to penalize you for later on. Ines sometimes goes through with a different color pen, after the TA is finished, and takes more points off. \n1 Lab notebook: It's not clear why you need to handwrite data for most labs. In most cases you'll just copy out of your excel file. The notebook is graded out of 5 points and hardly anyone gets 5/5. The reasons for this are unclear.\n"
+        }
+    ]
+}

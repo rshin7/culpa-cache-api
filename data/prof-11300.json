@@ -1,0 +1,16 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Ildar Salakhutdinov",
+            "prof_id": 11300,
+            "total_reviews": 1
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": "Ceramics and Composites",
+            "review_date": "December 29, 2011",
+            "review_content": "\nThis is a strange course, because \"officially\" it is supposed to be run by Prof. Seung Yub, but he has handed over 80% of the course to Ildar Salakhutdinov.\nProf. Salakhutdinov is a terrible instructor. He has around 80 slides per lecture, which he basically rushes through. He mumbles all of it (literally, watch his CVN previews), and skips the parts that are complex to explain. It seems that he is reading the slide contents for the first time, as there seems to be no plan or preparation from him.\nThe content itself is nothing special. It is all generic Material Science stuff like lattice structures, etc. Basically, instead of attending his course, you will learn more from Callister.\nExams and Grading: The exams are extremely simple and can be done by a sophomore without preparation. But here is the catch. The problems are extremely poorly worded and you are never sure what exactly he wants you to find. For example: He wants you to find the yield stress for a composite material, but will be vague about which material it is. If you assume that it is one of the possible 5 materials he could mean and use data from the one he doesn't want -you lose half the points.\nWhen you go to ask for an explanation regarding your points in the final or midterm exam, you will find that he cannot explain how he assigned the points to you. He cannot tell you, which questions cost you how many points. On being pressed again and again, he makes something up on the spot that adds up to the whimsical total he assigned.\nIf you manage to read his mind (or get lucky) in the exams, you will score close to 100% and get an easy A. But if you make the cardinal sin of using wrong data, or not providing the answer in the format he wants (something not always specified), you will get around 60% and a D.\nTerm Paper: Here too, dont try to present a term paper based on a literature survey or your research. It is apparently \"too scientific\" in his words. He prefers generic, simple to understand, wikipedia (he stopped short of actually saying this) based term papers. As with the exams, you realize what he wants only after you deliver your presentation and he gives no opportunity to \"improve\" it.\nYour concepts regarding Ceramics and Composites play no role in this course, its all about exam 'tactics'.\n\nWorkload:\n30% midterm, 30% term paper, 40% midsem\nno graded assignments, quizzes are not graded.\n"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Anthony Shaw",
+            "prof_id": 2370,
+            "total_reviews": 1
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": "Organic Chemistry Lab",
+            "review_date": "January 02, 2005",
+            "review_content": "\nAnthony Shaw is a great TA.  He is a graduate student at Columbia and really knows his chemistry.  Orgo Lab is much better than GChem lab (only 3 lab writes).  Anthony gives very detailed lectures prior to the experiment, which are extremely helpful not only to doing the lab itself, but also to doing the prelab quizzes. I highly recommend taking the class with him.  He is available and more than happy to help with orgo problems outside of lab and he is also very helpful with the lab reports.  \nWorkload:\n3 Reports, 11 prelabs, 11 prelab quizzes.\n"
+        }
+    ]
+}

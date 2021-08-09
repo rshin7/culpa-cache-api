@@ -1,0 +1,16 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Aleks Jakulin",
+            "prof_id": 10530,
+            "total_reviews": 1
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": "Data Mining",
+            "review_date": "May 22, 2010",
+            "review_content": "\nStay away!!! \nThis professor is a terrible teacher, does not like to help to his students even during his office hours (he made me feel as if I am wasting his time and did not answered some of my questions), and is not consistent with his grading.\nHis lectures were waste of time. He used powerpoint slides that have lots of graphs, but he did not explain what the underlying data are or what the axes on a plot are. Also, he spent last half of the semester teaching how to code in Phyton. If I want to learn Phyton, I would have taken a class from the computer science department. Half of the students stopped coming to class after the midterm, because they have realized that the classes are no use and the questions in the exam had nothing to do with what we covered in class. \nI'll recommend everyone to run away from this professor. \nIt's a pity too; I was really looking forward to taking a good data mining course. \nWorkload:\ntwo exams: there's no point in studying. \nthe questions are totally random and usually had nothing to do with the class material.\none project: 60% of the grade. unless you spent days on coding, you'll not get a decent grade from it.\n"
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Ward Whitt",
+            "prof_id": 1666,
+            "total_reviews": 9
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": "Intro to OR: Stochastic Models",
+            "review_date": "December 22, 2014",
+            "review_content": "\nStochastic models is probably one of the most interesting topics you could learn but Ward manages to be such an incompetent teacher that this is essentially a self-study course. The class covers, Discrete and Continuous Time Markov Chains, Poisson and Exponential processes (not distributions - there's a big difference) in detail, Renewal Theory and Brownian motion. All very interesting topics that can be used to model a variety of scenarios and in general improve your understanding of probability.\nThe problem is not the material, but Ward. He doesn't follow a well-defined thought process, jumping around between topics, hastily scribbling something on the board and erasing it before we can comprehend what he's trying to do. Attending lecture was a total waste of time. He often admitted that he knew that we had no idea was going on but we should all read the notes posted online (beware - the notes for Renewal theory stink so learn it some other way).\nThe TAs go over HW solutions in recitation before they are due. They're a bit harder than what you see in the exam most of the time.\nFirst midterm was ridiculously easy with a 91 median. Second midterm was ridiculously hard with a 56 median. Final was on the harder side since there's so much to study, but the median was in the high 70s I believe. I feel like his exams have gotten harder over time given previous years tests. He has a weird grading scheme detailed in other posts that you can find on his website.\nAll your learning is from the notes posted online, the textbook, the HWs and past sample exams. The material can be quite difficult sometimes, especially during the middle of the semester when you do CTMCs and renewal theory. \nOften, the TAs couldn't answer all our questions too, though I must admit that Mauro tried his best and spent a lot of time attempting to figure out stuff with students.\nOverall, I'm glad I learned this stuff, but regret taking the class with Ward. He claims to be a generous grader, but he's really not.\nWorkload:\n11 HWs\n2 midterms\n1 final\n"
+        },
+        {
+            "course_name": "Intro to OR: Stochastic Models",
+            "review_date": "December 22, 2011",
+            "review_content": "\nI don't care what anyone says, I love Ward Whitt.\nThe material is somewhat challenging and averages tend to be low around the 60-70s, but if you put effort into learning on your own, you will enjoy it.  If you don't you probably shouldn't be in IEOR.  He posts all the lectures and previous exams online.  It will definitely pay off working through several to prepare for exams.  Know the definitions of distributions and different stochastic processes and everything will fall into place.\n\"Well I watch more TV now than I did in college... (thinks for a second)... but that's probably because we didn't have TVs back when I was in college.\" -Ward Whitt\nWorkload:\nWeekly Problem Sets solutions given at recitation\n2 Midterms \n1 Final \n"
+        },
+        {
+            "course_name": "Intro to OR: Stochastic Models",
+            "review_date": "January 09, 2011",
+            "review_content": "\nThis is the worst professor I have had at Columbia. Many other students I talked to shared a similar experience. Those I talked to considered themselves better off by NOT going to class, to save themselves the confusion and grief.\nHis lectures are completely unorganized. He skips all the important steps and never explains anything. He rarely if ever covers any kind of general case. He's all over the place in terms of explaining anything. He has a bad habit of writing the crucial step or equation on the board, but then immediately erases it because \"that's not important.\" It's incredibly frustrating.\nFor how impossible the material is, however, the class is run okay. He has his TAs go over the problem sets before they were due (though the TAs weren't much better at explaining things). Even then, the problem sets are graded on completion. He puts plenty of practice exams online, and goes over them in class and in TA sessions. The material you see on exams is usually easier than what you see on homework. The tests are open book (closed notes). Unfortunately the book is horrible.\nThe grading is pretty lenient. He splits grading into parts: 1 part for all homework assignments, 1 part for each midterm, and 2 parts for the final. Each part is scaled against the class average: for example, if you have an 80 on an exam, and the average is a 60, then you'll have a 1.333 for that part. You drop your lowest part. However, getting an A isn't easy. An A in my section required 4.87/4.00.\nWorkload:\n11 weekly problem sets, gone over by TAs, graded by completion\n2 midterms\nCumulative final\n"
+        },
+        {
+            "course_name": "Intro to OR: Stochastic Models",
+            "review_date": "December 20, 2008",
+            "review_content": "\nWard Whitt is without a doubt, a brilliant guy. However, people stop going to class after realizing that the best way to study and learn the material is not through the lectures, but through repetition of old exams and a solid cheat sheet.\nHe is a very generous grader--half of the class received A ranged grades.\nWorkload:\n1 problem set per week, but everyone has the solutions, and the TA's give out the answers during recitation.\n2 Midterms, each very similar to past year midterms\n1 Final, very similar to past year finals\n"
+        },
+        {
+            "course_name": "IEOR 4106",
+            "review_date": "May 13, 2007",
+            "review_content": "\nA decent class.  The course covers discrete / continuous Markov chains, Poisson / exponential processes, renewal theory and some Brownian motion.  You learn a considerable amount and Whitt emphasizes problem solving techniques.  \nAs for his lectures, they aren't required to do well in class as he posts notes online.  He tends to be kooky (zany mad-scientist laughs) and can linger on irrelevant topics.  A huge plus is that his speech is very understandable; also, he seems very willing and able to answer questions. \nWorkload:\nNot bad.  Easy homeworks with answers provided each recitation.  Straightforward exams with prior years posted.  Extra credit too.\n"
+        },
+        {
+            "course_name": "Intro to Stochastic Modelling (Grad level)",
+            "review_date": "July 21, 2006",
+            "review_content": "\nAdmittedly, taking this as an undergrad I found the material a bit taxing. Although the first midterm was easy since it was basically a review of ProbStats. Ward likes to make jokes in class and use students in his word problems, especially on tests. This, however, did not stop me from falling asleep in class almost everyday. He does regrading for tests if you have an issue. But you have to be right and not just be a complaining bitch about it.\nWorkload:\nHomework is \"optional\" if you do well on the tests they do not affect your grade. Solutions are posted as well as old midterms/finals. He recycles a lot of problems so it shouldn't be a tough class if you study the tests that go back a few years. Being as I got a B+ and was unconscious for most class sessions I went to, I'd say that's the best strategy. Opportunity for extra credit exists (project), but in my opinion is more work than it's worth.\n"
+        },
+        {
+            "course_name": "Stochastic Modeling",
+            "review_date": "May 14, 2004",
+            "review_content": "\nGood Professor / stand-up comedian.  He really likes to bring his sense of humor into the classroom, which is a good thing.  Class is very straightforward.  Each class you do about one example from the book in full detail.  Course is pretty easy, but you will learn all about stochastic models, which is a very useful skill.  \nWorkload:\nOptional (total hookup) homework sets.  Since the solutions are posted, you can not do them and them learn how to do the problems before the tests.  Tests are pretty easy.  Overall, the class is pretty easy, the professor is a great and really funny guy, and the subject matter is (renewal)rewarding.\n"
+        },
+        {
+            "course_name": "Stochastic",
+            "review_date": "November 09, 2003",
+            "review_content": "\nawesome prof!! very friendly. but sometimes he may appear rude in class like when the majority of the class did horrible in class and he was harsh with the curve, so ppl protested and he replied back. fair enough. but if ui show u r serious and try to know him personally, he is helluva prof! one of the best in that he really encourages, rather forces, students to get up and study. he said he wont mind flunking u of need be. so be careful!! be regular, attend classes and try to study. u ll b fine at least the avg which isnt bad.\nWorkload:\nfair. weekly PS and 2 midterms and a final. final was tough tho. the TA didnt help much i guess. she only solved the whole PS every week and her english wasnt that good. writes horribly! prof is nice tho. \n"
+        },
+        {
+            "course_name": "Stochastic Modeling",
+            "review_date": "June 01, 2003",
+            "review_content": "\nLike most engineering classes, attendance is an exercise in futility. Ward Whitt\u00c2\u2019s class is no exception. However, unlike most engineering classes, one comes out with a perception that one has certainly picked up a couple things along the way, as opposed to a false sense of gratification from passing the midterm and final as a result of being pulled up by the generous curve that evolves from  SEAS students\u00c2\u2019 indifference toward coursework and anything else academic.\nThe lectures are invariably incomprehensible, and the text \u00c2\u2013 Sheldon\u00c2\u2019s Ross\u00c2\u2019 Introduction to Probability Models \u00c2\u2013 is inevitably indecipherable. The problem sets, however, provide most of the instruction. Some of the problems are just too much to ask for from even grad students; others clearly impart a process and knowledge about whatever is supposed to be going on in the class.\nA warning however: in order to save yourself some time (and a lot of anguish) \u00c2\u2013 do well on the midterm. For those who had decided to slacked off, the rest of the post-midterm course becomes a sort of remedial program for those not quite up to snuff in their stochastic modeling \u00c2\u201cskillz\u00c2\u201d \u00c2\u2013 surprise quizzes, supplementary problem sets, in addition to the regular assigned problem sets.\n\nWorkload:\nThe workload is fair and challenging: weekly problem sets (25%), a midterm (35%), and a final (40%).  \n"
+        }
+    ]
+}

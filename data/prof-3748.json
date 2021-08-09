@@ -1,0 +1,16 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Richard Osgood",
+            "prof_id": 3748,
+            "total_reviews": 1
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": "Fundamentals of Photonics",
+            "review_date": "February 22, 2009",
+            "review_content": "\nThis class was a good introduction to optics and photonics. Professor Osgood knows a lot about optics since it is his field of research but glosses over details in class, trying just to convey the big picture. He never derives or proves anything, rather he just chats about the material and the significance of this and that. He absolutely LOVES when people ask him questions during class.\nThe homework is from the book, mostly, and pretty easy with a few exceptions, when they are poorly selected problems or ones that the Professor himself has composed.\nMathematical and scientific prerequisites for this course are virtually non-existant, it is neither very mathematical nor very physic-y so don't worry if you haven't taken too much of either. You can learn everything you need to know from the book. This should be your first class if you want to do anything with optics in EE.\nThe hardest part about this class was staying alert for 2.5 hours in the early morning. Otherwise, you will learn a lot about ray optics, a bit of electromagnetic optics, photonics and modern lasers. It will enable you to understand the main areas of optical research and the basic fundamentals of the field.\nWorkload:\nOne problem set every week which takes around 3 hours to do. There are two tests which are both extremely easy compared to the homework. He doesn't allow calculators on the test, but expects numerical answers, so be prepared to do lots of long division!\n"
+        }
+    ]
+}

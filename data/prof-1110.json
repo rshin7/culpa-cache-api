@@ -1,0 +1,21 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Andrea Solomon",
+            "prof_id": 1110,
+            "total_reviews": 2
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": "Tudor-Stuart Drama",
+            "review_date": "February 07, 2008",
+            "review_content": "\nExcellent class, fascinating material (Shakespeare, Ben Jonson, Thomas Kyd, Christopher Marlowe); small seminar style discussion format with a passionate and learned instructor, and relative freedom to explore interesting topics in research paper.  Convenient evening time slot.  The Department should offer this and other focused Renaissance lit classes more regularly!  \n"
+        },
+        {
+            "course_name": "Tudor-Stuart Drama",
+            "review_date": "May 13, 2002",
+            "review_content": "\nWant to put in a lot of effort and earn a grade that's insanely low? Then take this course! \nWorkload:\na moderate amount of boring plays\n"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Zoe Tobier",
+            "prof_id": 3179,
+            "total_reviews": 3
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": "University Writing",
+            "review_date": "April 17, 2007",
+            "review_content": "\nExtremely nice teacher. Is very open to meeting privately to discuss your essay. Sometimes has classes that feel like it justs wastes your time, but if you actually do what she asks they will help your essay. She also puts on clips from films during class. Extremely flexible with deadlines. As long as you email her, she is ok with late papers and such.\nWorkload:\n20 page/week (you can get by with 8). 4 essays during the semester.\n"
+        },
+        {
+            "course_name": "University Writing",
+            "review_date": "April 08, 2007",
+            "review_content": "\nKind of Clueless Uwriting teacher. class was a waste of time. nice lady\nWorkload:\nShe takes more time to grade papers than she gives students to write them. \n"
+        },
+        {
+            "course_name": "Film Theory",
+            "review_date": "February 07, 2007",
+            "review_content": "\nGreat T.A.  Will take the time to explain to you why your writing doesn't work.  You'll learn something from her.  \n"
+        }
+    ]
+}

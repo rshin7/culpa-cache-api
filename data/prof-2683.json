@@ -1,0 +1,36 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "David Yao",
+            "prof_id": 2683,
+            "total_reviews": 5
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": "Introduction to Financial Engineering",
+            "review_date": "December 16, 2016",
+            "review_content": "\nThis is conceptually a very difficult class. You'll be one of a handful of undergrads in the class. Overall, the class is difficult, but grading is very good. He curves basically to an A-. \nMost of the class is spent deriving derivatives, proving Black Scholes, optimizing portfolio -- concepts that are fundamental to modern quantitative finance. \n\nWorkload:\nWeekly HW's, Midterm, Final\n"
+        },
+        {
+            "course_name": "Stochastic Models (for UAT and Masters)",
+            "review_date": "December 31, 2007",
+            "review_content": "\nThis course is pretty hard, but Yao is a great professor. The curve is pretty generous too.\nWorkload:\nWeekly homework (NOT graded for correctness, aka free points), midterm and final. The exams are fairly challenging, but studying for them really pays off\n"
+        },
+        {
+            "course_name": "Introduction to Probability & Statistics",
+            "review_date": "May 21, 2007",
+            "review_content": "\nProf. Yao is seriously one of the best professors I have had thus far. He makes sure to clarify any part of the material that may seem confusing or difficult. The material isn't very extremely hard but not easy either. There is A LOT to know, therefore, he lets you write ANYTHING you want on both sides of a regular sheet of paper and use it on the midterm and final! Although this helps A LOT, it is essential that you understand the concepts otherwise this won't help you. Make sure to go to the weekly recitation session since the TA goes over several of the homework problems and actually gives you those answers. The sample midterm and final are very similar to the actual exams. DEFINITELY recommended. \nWorkload:\nlong weekly problem sets(20%), 2-day midterm (40%), noncumulative final (40%)  \n"
+        },
+        {
+            "course_name": "Intro Prob/Stats",
+            "review_date": "April 16, 2007",
+            "review_content": "\nVery proof focused. The first half was very concept focused. Non-American TA also didn't help. But class gets easier as semester progressed. Materials were more numerical and straightforward. Prof. Yao is a competent professor. He knows his material if you have the time to go to his office hour. \nWorkload:\nLong HW (going to recitation will save alot of your time), 1 relatively hard midterm, 1 final\n"
+        },
+        {
+            "course_name": "Stochastic Processes SIEO 4606",
+            "review_date": "December 04, 2005",
+            "review_content": "\nProfessor Yao is an excellent professor.  He is extremely friendly, sometimes funny, and very smart!  His lectures are straightforward and he does his best to demystify this challenging topic.  The Ross book is pretty good but the homework problems are challenging.  \nI have seen past midterms/homework, etc and this course is much more difficult than Whitt's course (be warned!).  The midterm involved a lot more show/proof than the direct computation of Whitt.  Be warned!\nDr. Yao is approachable and overall a great professor.. you cannot ask for better (especially in IEOR).\nWorkload:\nWeekly homework (20%, collected, but not graded... automatic 100%!!), midterm (40%), final (40%)\n"
+        }
+    ]
+}

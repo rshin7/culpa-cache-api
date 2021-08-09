@@ -1,0 +1,31 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Jon Kessler",
+            "prof_id": 218,
+            "total_reviews": 4
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": null,
+            "review_date": null,
+            "review_content": null
+        },
+        {
+            "course_name": "Sculpture Fundamentals",
+            "review_date": "December 15, 2005",
+            "review_content": "\nit's hard not to take jon's words personally, even when they aren't meant to be.  i think he can be a little rough and self-absorbed for an intro class.  he knows what he's talking about and there are no sculpture-related questions you can ask that he can't answer, but still, that's\ntrue of any professor at columbia.  don't take kessler's class expecting to make a bond with the prof or impress\nhim...it just won't happen.  frankly,  i wish i had taken the class with an adjunct.  he made me scared to go to class.\nWorkload:\naverage...three intensive projects for the semester\n"
+        },
+        {
+            "course_name": "Sculpture: Mixed Media",
+            "review_date": "December 31, 1999",
+            "review_content": "\nHis classes aren't really geared toward teaching. You just complete projects and get critiqued. Four hours of critiques with no breaks, enough to make you want to shoot everyone in sight.\n"
+        },
+        {
+            "course_name": "Sculpture Fundamentals, Sculpture 1/2",
+            "review_date": "December 31, 1999",
+            "review_content": "\nJohn is pretty much an a$$hole, full of himself, hard to get a read on, and all that--but that doesn't stop him from being a good teacher. He won't make you cry, but he will be honest in crits. He's very approachable for advice. I reccomend his classes, but as long as you can take his attitude with a grain of salt.\nWorkload:\nAbout one project a week in fundamentals. In higher level classes, one a month. Expect to spend a lot of time on 125th Street and working all hours to get done in time for crits. plus side? No smoking rules are not enforced in Prentis.\n"
+        }
+    ]
+}

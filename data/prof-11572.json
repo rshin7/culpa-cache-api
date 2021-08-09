@@ -1,0 +1,66 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Daniel Bauer",
+            "prof_id": 11572,
+            "total_reviews": 11
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": "Natural Language Processing",
+            "review_date": "July 10, 2020",
+            "review_content": "\nI took NLP with Professor Bauer in Summer 2020, it was a compressed schedule, and newly virtual due to circumstances surrounding COVID-19. Professor Bauer and his teaching team have taken a difficult situation and made it organized and engaging.\nHis lectures are clear and logically organized, and his slides are understandable on their own. He also seems like he cares about his students, and ensures that the class has an understanding before moving on. He and his team were responsive on Piazza as well.\nThe homework assignments were designed so that you spent your effort completely programming the NLP relevant algorithms (which were always well reviewed in class) without having to worry about setting up your classes/program architecture. If you are not completely comfortable with programming in Python and data structures, the one week turnaround on each homework can be stressful. \nWorkload:\n60%     5 homeworks, each worth 12% of your final grade. Each homework was almost entirely programming. Prof. Bauer claims each pset should take ~8 hours, on average I found this to be true, with earlier hws taking less time. \n30%     Final exam: straightforward final exam\n10%     class participation: checking for engagement on Piazza, attending lectures, etc.\n\n"
+        },
+        {
+            "course_name": "Data Structures in Java",
+            "review_date": "February 08, 2020",
+            "review_content": "\nExtremely kind, fair, and helpful professor. I really enjoyed his class, and his grading is very fair. He\u2019s super welcoming to questions and always stays after class to answer all the students\u2019 questions. His lecture slides are very clear and super helpful for understanding how the different data structures and algorithms work. Great class!\nWorkload:\nVery fair and manageable\n"
+        },
+        {
+            "course_name": "Introduction to Computer Science for Engineers/Applied Scientists - Python",
+            "review_date": "February 05, 2020",
+            "review_content": "\nBauer is a great professor. I had no programming experience before coming to Columbia, and taking 1006 with Bauer has made me strongly consider a major in CS. He is approachable, kind, and fair, and he really does care for the well-being of his students. While his lectures can be dry at times, his notes concisely lay out everything you need to know. I thought the quizzes and the final exam had some minor tricks, but they\u2019re probably super easy if you have prior programming knowledge. The TAs are some of the best I\u2019ve had in any of my classes - they\u2019re patient and more than happy to steer you in the right direction without giving away too much. The head TA Spencer was always on top of hosting review sessions and preparing slides/Kahoots, which I found to be incredibly useful. As a whole, if you have to take 1006 (either because you\u2019re in SEAS or because you want a gentler start to CS before taking 1004), I strongly recommend taking it with Bauer. He\u2019s currently on parental leave this semester, but I hope to take more classes with him in the future!\nWorkload:\n5 In-Class Sets (20%) - Not too bad for the most part, and you can do them in groups of 2 or 3.\n4 Take-Home Projects (25%) - There were originally 5, but the last one about machine learning became optional due to time constraints.\n2 Quizzes (20%)\n1 Final Exam (30%)\nAttendance & Participation (5%) \n"
+        },
+        {
+            "course_name": "Data Structures in Java",
+            "review_date": "January 10, 2020",
+            "review_content": "\nBauer is an excellent professor. His lecture slides are probably the most useful thing; they're super clear and easy to understand. He breaks down the concepts through visual animations which is nice if you're a visual learner. I took intro to java with Paul Blaer, and I would say Blaer is definitely more engaging and makes the class fun. Whereas BAUER can be kind of dry and I've fallen asleep twice during lecture. He can get in the theory and mathematics of algorithms which can get pretty boring, depending if you're into that. \nHomework projects aren't too hard nor too easy. Spread out well, giving enough time to finish them. \nSuper kind and understanding: I was sick and he gave me an extension of a week for one of the homeworks. He's very helpful in office hours and I could ask him the stupidest question and he would explain the concept. \nWorkload:\n5 homework, 1 dropped (50%)\n19% midterm \n30% final \n1% for setting up Codio... so basically a free point\n"
+        },
+        {
+            "course_name": "Natural Language Processing",
+            "review_date": "November 17, 2019",
+            "review_content": "\nProfessor Bauer is an amazing lecturer who cares very much about his students. I took his course in Summer 19' (tighter packed schedule) and it was worth it. His German accent made the three-hour lectures tolerable, but it was his passion for NLP that really drove the class forward. There is some math that comes with the subject but Prof. Bauer explained everything until he felt the entire class grasped the concept. My favorite part was when the class worked through NLP problems together during class, solving theory-based problems that helped make sense of the assigned programming assignments. If you get a chance to take NLP with Prof. Bauer take it! I for one took this class in the summer on top of an already heavy schedule but always found the material satisfying. His problem sets force you to connect the dots from theory to application but it was always satisfying coming to a solution. Sometimes, there were clever optimizations that could be made to improve your code to run in a fraction of the time. It is worth noting that this is the semester I started to really learn Python, so if you already have some familiarity you should be good. The exams were challenging but if you attend class and study diligently you should be okay. This was one of my favorite classes here at Columbia and I am eager to learn more about the NLP field because of Prof. Bauer.\nWorkload:\n- 5 Problem Sets\n- 1 Midterm \n- 1 Final \n"
+        },
+        {
+            "course_name": "Honors Data Structures",
+            "review_date": "June 01, 2019",
+            "review_content": "\nThis class was one of the most organized CS classes I\u2019ve taken. \nProfessor Bauer does an excellent job at explaining algorithms, ADTs and their implementations. He\u2019s also incredibly responsive to questions, and overall a very kind, intelligent, helpful person. \n3137 is worth 4 credits, as opposed to 3134, which is worth 3, because this class also teaches functional programming concepts via Scala. \nIf you love CS, then definitely take this class. \nWorkload:\nFive Homework\u2019s (Written/Program) - 40%\nMidterm - 25%\nFinal - 30% \nParticipation - 5% \n"
+        },
+        {
+            "course_name": "Artificial Intelligence",
+            "review_date": "April 14, 2018",
+            "review_content": "\nI took 1006 with Bauer in Spring 2017 and AI in Fall 2017.\nHe is an incredibly nice person and very organized. His lecture notes are helpful, and as a person who avoids reading the textbook, I found that convenient when reviewing for exams. Bauer does have a German accent but I don't think it is difficult to understand. Although he explains concepts well and respects questions, his lectures can sometimes be a little boring to follow. But if you're willing to pay attention, you will learn enough to do well in the class. He tries to get students excited about AI & ML --there was a simple ML assignment in 1006, and assigned readings in the AI HWs. HW prompts are so detailed to the point where all you need to do is implement it in Python, and exams are straightforward so in terms of difficulty, it's not hard to succeed in his class.\n1006 is a required class for many, but whether or not to take AI is a question to consider. Whether you take it with Ansaf or Bauer, the class itself doesn't go very in depth in AI. It's a nice intro and a good class to tack onto some other CS workload--teaches some game theory, deep learning, and a little stats stuff. I had fun but if you're genuinely interested in AI, just go have a conversation with Bauer. Whatever you choose, good luck in your CS career!\nOverall, I do recommend Bauer and hope to see him improve as a lecturer.\nWorkload:\nCompletely Manageable.\n1006:  6 HWs (54%), Midterm (23%), Final (23%)\n4701:  5 Written HWs (25%), 5 Programming HWs (35%), Midterm (15%), Final (25%)\n\n"
+        },
+        {
+            "course_name": "Introduction to Computer Science for Engineers/Applied Scientists - Python",
+            "review_date": "January 22, 2018",
+            "review_content": "\nProf Bauer is a very kind and helpful man, who gives extremely dry lectures and unnecessarily difficult homework. Most of the time I did not even bother to go to his class. He uploads every lecture note, so that was helpful. He is really boring and it was really hard to concentrate in class but if you actually go to his office hours, you will see that he is very patient and will try to help you as much as he can.\nWorkload:\n5 homework, 1 midterm, 1 final\n"
+        },
+        {
+            "course_name": "Introduction to Computer Science for Engineers/Applied Scientists - Python",
+            "review_date": "December 31, 2017",
+            "review_content": "\nDisclaimer: I went to two classes total.\nI can't speak to his teaching style, but Dr. Bauer organized and designed the class very well. The coding exercises on the homework were generally simple and easy. For the programs that required a little more thought, Bauer provided skeleton code that tended to trivialize the problem. The midterms and final were fair. The tests both consisted of \nA few true/false that required you to know some small nuances of the python language. A few short answer about interpreting code.\n1-3 simple coding exercise that required only basic control structures. \nHonestly,if you don't need this course as a requirement, you should just teach yourself the material. Otherwise, it's still a solid class to leisurely learn the bare basics of python. \nAlso, his lecture notes contain everything you need to know.\n\nWorkload:\n1-3 hours a week. Going to class is VERY optional \n"
+        },
+        {
+            "course_name": "Data Structures in Java",
+            "review_date": "September 21, 2016",
+            "review_content": "\nI took this course with Prof. Blaer, but often went to Prof's Bauer's office hours. He is SO kind an helpful, always taking the time to patiently explain any difficult concepts. \nWorkload:\nSame as the other section. \n"
+        },
+        {
+            "course_name": "Data Structures in Java",
+            "review_date": "May 04, 2015",
+            "review_content": "\nProfessor Bauer was a really nice guy and very approachable and helpful one-on-one but he failed to command the attention of the class. It was a bit hard to understand/hear him when he taught and his class was severely boring. That being said, if you take the time to attend his office hours he is very patient and will sit with you and explain things you don't understand. The homeworks he assigned were much harder than he realized and took several hours to complete- often dealing with little Java technicalities such as generics which were usually much more involved than Bauer taught in class. Additionally, the textbook for this class absolutely sucks but for the most part Bauer's slides were helpful. Overall, for a class that is so important for computer science majors, this class did not meet my expectations. I do think Bauer learned a lot from teaching this for the first time and this class will only improve.  \nWorkload:\n6 problem sets (each composed of a theory and programming section)- lowest one dropped \n1 midterm (20%), final(30%)\n"
+        }
+    ]
+}

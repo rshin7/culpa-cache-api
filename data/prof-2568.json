@@ -1,0 +1,26 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Shih-Fu Chang",
+            "prof_id": 2568,
+            "total_reviews": 3
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": "Senior Project",
+            "review_date": "February 02, 2015",
+            "review_content": "\nVery good professor, I did some computer vision and machine learning projects under his instruction, they all very helpful for me to reach the cutting-edge technologies and for job hunting!\nWorkload:\nVery balance.\n"
+        },
+        {
+            "course_name": "Digital Image Processing",
+            "review_date": "August 28, 2006",
+            "review_content": "\nProfessor Chang is a pretty good professor.  Since I am a distance student via CVN I like how he scans in the notes and provides them to you.  This allowed me to watch the lecture and take some notes on his notes.  I also like how he lectures from the slides and takes notes on a blank sheet a paper rather then on a board.  This makes it easier for me to see on the mpeg file.  I noticed in other classes sometimes the camera is not pointing towards the notes on the board.  I also likes how he provides the old exams to help you study.  You might be also able to find more old exams from the Internet.  If you study from the old exams you should have no problem in his class.  If you are a CVN student I will recommend you take this class first.  I also like how he goes over concepts that you might have forgotten.  This helped me out since I have not seen some concepts in a long while.  I would definately take another class from him.\nWorkload:\n6-7 hws, 1 midterm, 1 final.\n"
+        },
+        {
+            "course_name": "Digital Image Processing",
+            "review_date": "May 30, 2005",
+            "review_content": "\nProfessor Chang is by far the best professor I've had in the EE dept. and one of the best I've had at Columbia. Very nice and you can tell that he has a passion for the subject and is really trying to make sure you understand the material.\nHe starts from color theory and then goes to morphological processes, all topics requiring a good bit of what was learned in Signals and Systems and then some. If you haven't taken DSP (like me) and didn't immediately know how to do discrete Fourier/Fast fourier, he goes through everything. Not to the point of being annoyingly meticulous, but thorough, making sure everyone in the class is on the same page.\nHW is pretty easy, challenging at times but very doable. Set up so that you understand what you are learning a lot better. If you still don't get it after lectures and hw, he is very approachable and willing to walk you through things.\nMidterms are not by any means easy, but they are like the hw, doable and challenging. Make sure you review the HW and notes before exams, exams are open note/open book. \ngreat class if you are interested in learning the theory behind photoshop functions, etc.\nWorkload:\n5-6 HW assignments (half book, half MATLAB programming), due every 2 weeks. 2 midterms. final. \n"
+        }
+    ]
+}

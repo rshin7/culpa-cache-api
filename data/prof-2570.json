@@ -1,0 +1,21 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Matthew Stevens",
+            "prof_id": 2570,
+            "total_reviews": 2
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": "Quantitative Political Research",
+            "review_date": "March 15, 2007",
+            "review_content": "\nMatt Stevens is a klutz, a lovable, funny, awkward klutz. \nHe's still a graduate student and it seems he's been shafted with 4910, but he does a fairly good job teaching the course for someone who is obviously not receiving any mentorship, aid, or supervision. However, if you are the sort to want your papers back a week after you turn them in, you should pass this course over. \nThe bad news is that you will have no idea how you are doing until the last few weeks of the course. The good news is that you'll probably be doing fine, because this is intro to stats for poets. The idea is to be able to understand what statistical software does, without being able to do the math. Hence, the workload is heavy\u00c2\u2014brute force heavy, not sweating bullets heavy. It is possible that 4911 goes a little deeper into real problems of statistical inference, but I hear the workload is similarly distributed.\nWorkload:\nFive papers of 8-10 pages, double spaced. The first is an analysis of a statistical paper (technique, model, validity of findings). The remaining four papers will require you to crunch numbers in Stata and write up your results in essay form.\n"
+        },
+        {
+            "course_name": "Analysis of Political Data",
+            "review_date": "June 02, 2005",
+            "review_content": "\nQuite possibly the best academic decision I made.  A little background: I sucked balls in Stat 1211 and was looking for anyway out of Econometrics.  I signed up for this class even though I hadn't taken 4910 the first class in the sequence.   The first few classes were a little daunting as it was review of subjects that  we had only barely touched upon in Stat 1211. BUT the the teacher Matt Steven and the TA Shao Chi were very helpful.  There was one primary textbook in which I began to do the readings.  However, the book goes way above and beyond the call of duty.  If you go to lecture you don't need to do it unless you're really stumped.  The lectures are very helpful.  Matt himself was in this class as a grad student (almost all the students are first year grads) and taught us exactly what we needed to know for the assignments and gave us examples that HE created back in the day in addition to real life examples.  In contrast to the sometimes abstract tests of Stat1211 you could actually see the practicality of what we we learning.  Matt also tried to spice up the class when it got boring. Key word he TRIED.  But the effort itself was well worth the price of admission.  In the end I got an A- and I'll admit I was slacking a bit towards the end of the semester.   Warning: If you're a conservative this class may be uncomfortable.  Matt is very liberal and works for the NY Senate Dems for his main job.  The prez of the college repubs was in my class and he looked like he was gonna die at the hands of the left-wing jokes that matt was spouting. Otherwise good times.\nWorkload:\nSix 6-10 page papers.  One of which was optional.  If you're an undergrad I think they grade easier. In addition basically each paper is a write-up of a Stata assignment so they practically write themselves.\n"
+        }
+    ]
+}

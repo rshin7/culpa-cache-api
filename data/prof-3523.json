@@ -1,0 +1,21 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Arne De Boever",
+            "prof_id": 3523,
+            "total_reviews": 2
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": "Contemporary Civilization",
+            "review_date": "February 21, 2009",
+            "review_content": "\nArne puts in 200%, and expects the same from his students. He's passionate about the materials, and encourages rigorous study. He's intelligent, articulate, accessible, and fair. if you want to breeze your way through an unchallenging class, this is not the class for you. But if you want to learn, to question, and to put a genuine effort into your work, this class is great.\n"
+        },
+        {
+            "course_name": "Contemporary Civilization",
+            "review_date": "December 12, 2008",
+            "review_content": "\nIf you do not want to be loaded with hundreds of pages, writing responses, etc. for every single class, avoid at all cost. \nTough grader.\nWorkload:\nTwo pages of writing response every class; one 10 page paper; mid-term; final (cumulative); all optional reading required\n"
+        }
+    ]
+}

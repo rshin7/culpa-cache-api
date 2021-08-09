@@ -1,0 +1,21 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Nizar Habash",
+            "prof_id": 10197,
+            "total_reviews": 2
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": "Topics in Computer Science: Machine Translation",
+            "review_date": "June 05, 2014",
+            "review_content": "\nThis was definitely one of the most fun times I had at Columbia. I took this class without prior knowledge in Machine Translation, but I had some exposure to classifiers and machine learning. Still, Professor Nizar made this class really fun and laid-back. The hands-on lab was a great way to introduce the students to the SMT world and get them excited about the course.\nThe class format hasn't changed much from the last review (I took the class last year). The workload was also almost the same, additionally we were asked to write up a summary of the papers presented every week. But don't let this intimidate you, in fact, this exercise forced us to actually read the papers before the class and it made listening to the presentations more fun and the discussions richer. Also even though some papers were advanced-level and difficult to read but that will not really affect your grade, you will still learn something out of them if you attempt to read them.\nOverall, this was really fun and laid-back class. Definitely consider it!\nWorkload:\n1- Fun hands-on Lab\n2-  Research project (8-page final paper to be submitted by end of semester) + a presentation - we worked in teams.\n3- Two presentations: One about a language of your choice, and one about paper set of your choice\n4- Weekly Paper Write Ups: 1-page summary every week, 4-papers per week. \n"
+        },
+        {
+            "course_name": "Topics in Computer Science: Machine Translation",
+            "review_date": "December 21, 2010",
+            "review_content": "\nA fun, laid-back class---worth staying until 8 on Thursday nights for. You read papers (or, if you're an undergraduate taking 5+ classes, you sometimes read papers), you discuss, you learn about machine translation. Habash is the authority on Arabic SMT; it's pretty cool to see him cited in just about everything you read, and it means that he can answer all of your questions. I would have liked to see a more than a single lecture spent on how the vanilla SMT and rule-based systems work (nobody studies them anymore, but you need to understand how they work for everything else to make sense, and they're not easy to figure out on your own). Other than that, really good---if he offers it again, take it.\nWorkload:\n1 \"lab\", with partners: put together a translation pipeline from start to finish, and then tweak it to see if you can get your BLEU scores up. He makes it a competition; people get excited.\n1 semester-long project, culminating in a final paper in the format of an 8-page journal article.\n2 presentations: one on a paper set of your choice and one on a language of your choice.\n"
+        }
+    ]
+}

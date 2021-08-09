@@ -1,0 +1,26 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Alexei Chekhlov",
+            "prof_id": 9795,
+            "total_reviews": 3
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": "Math Methods: Financial Price Analysis",
+            "review_date": "March 09, 2015",
+            "review_content": "\nOne of the best courses to be taught at the MAFN Program. Prof. Cheklov is a Princeton Math PhD and is well known in the Columbia Math Department as an extraordinary researcher and a brilliant communicator. \nIn the course one studies financial time series analysis , from the statistical physics point of view. A parallel is drawn between theory of turbulence  and how its laws can be adapted to study today's financial time series such as those of S&P; 500 Index etc. Various concepts such as Frequency  or Energy spectra of Long and Short term memory processes and their relationship with auto-correlation function is studied in an altogether different context. \nAnother big attraction of this course is the study of Levy processes and its properties and advantages over the traditional Weiner process( a subset of Levy processes) in explaining the actual or observed Price returns of the Assets .\nThere are other fascinating topics, such as dynamics of limit order book etc, for which one has to take this course in order to fully appreciate.\nTo conclude, a must take course for anybody who is willing to think outside the box and is in love with both Physics and Finance.\nWorkload:\nDecent,  but requires a willingness to view concepts from an altogether different perspective. \n"
+        },
+        {
+            "course_name": "Math Methods: Financial Price Analysis",
+            "review_date": "September 05, 2013",
+            "review_content": "\nChekhlov is a straight-from-central-casting cynical Russian physics prodigy from Princeton who started a prop shop called Systematic Alpha. Systematic Alpha has made a ton of money and has been dogged by claims that the Russian mob is bankrolling the fund (seriously. Google it.) He knows how to make money with market neutral trading strategies, and he tells you how to do it (with middling clarity.)\nThe class has no tests; instead there are only 2 homeworks and a group project. The homeworks are copy-and-paste from the notes, but the project requires real thinking and solid programming skills. Usually only one person per group can program well enough to complete the project, so the other group members do nothing. \nLectures are quite mathematical, and the projector in Hamilton has a greenish tinge which renders the slides well nigh illegible. The slides are handwritten and his Soviet-academy penmanship would confound the American eye under the best of circumstances. His tie is always six inches too long and his accent is both charming and menacing. \nYou would be hard pressed to receive a grade lower than a \"B\" here, though if you want the A+ you'll have to earn his respect by proving that you're near his mathematical level (which a vanishingly small portion of students can do). This is a great way to take care of your math requirement if you're in SEAS grad school and are tired of highly-rigorous math classes.\nWorkload:\n2 trivial homeworks, 1 heavy-duty group programming project in which you must implement a trend-following trading strategy in futures markets. No exams (!)\n"
+        },
+        {
+            "course_name": "Math Methods: Financial Price Analysis",
+            "review_date": "June 06, 2010",
+            "review_content": "\nEven though the class is not very difficult, it is practical and connects the gap between industry and practice of Algo Trading. It culminates in a Final group presentation, in which a trading system is designed.\nCheckhlov is a brilliant man in every sense of the word: As a trader, as a physicist, as a professor, and as a person.\nHe emphasizes the rational way of thinking in an irrational world and irrational markets. It is amazing-- as he is very convincing in terms of the evidence he povides for his claims. May good fortune dwell on him and on us. \n\nWorkload:\n2 Homework assignments, Final project/pesentation\n"
+        }
+    ]
+}

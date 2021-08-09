@@ -1,0 +1,16 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Malanding Jaiteh",
+            "prof_id": 8316,
+            "total_reviews": 1
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": "GIS for International Studies",
+            "review_date": "November 03, 2011",
+            "review_content": "\nProfessor Jaiteh is a very nice man and an entirely capable GIS practitioner. He does however have a difficult time connecting with students and communicating his lectures in an understandable manner. The course has been a struggle for me due to the fact that the book we are using \"GIS Tutorial for Humanitarian Assistance\" is based on ArcGIS v.9, and most of the computers on campus operate on ArcGIS v.10. I would recommend that he simply and slowly review how to use the software in class, rather than have the students struggle with it on their own. The assignments are interesting but usually take me more than 3.5 hours each to complete (some even took me upwards of 6 hours!).   \nI don't think I can bring myself to recommend the course. I would definitely recommend learning how to use ESRI's ArcGIS software. Whether this course is the most appropriate means is questionable. You may end up teaching it to yourself, or spending entire days in the data mapping lab in the basement of SIPA, like myself!\nWorkload:\nWeekly HW assignments, several 7 page papers, in-class midterm, take-home final\n"
+        }
+    ]
+}

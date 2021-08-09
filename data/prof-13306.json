@@ -1,0 +1,21 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Rachel  Throop",
+            "prof_id": 13306,
+            "total_reviews": 2
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": "Education foundations",
+            "review_date": "February 20, 2018",
+            "review_content": "\nBest professor ever will change your life! Such a compassionate and enthusiastic individual. \nWorkload:\nManageable \n"
+        },
+        {
+            "course_name": "Education foundations",
+            "review_date": "December 08, 2016",
+            "review_content": "\neducational Foundations with a Rachel throop\nA must take class!!!! She is amazing! I learned so much. The class is engaging and interesting. She is understanding and thebwork is manageable. The class introduces you to the foundations of education and then we discuss what it means to have an equal education through class, race, gender, etc\nWorkload:\n3essays 5to7 pages with a rough draft. Short reading guides do every class. Very manageable \n"
+        }
+    ]
+}

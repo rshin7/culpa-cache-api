@@ -1,0 +1,26 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Edward Ciaccio",
+            "prof_id": 1121,
+            "total_reviews": 3
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": "Computer Controlled Biological Instrumentation",
+            "review_date": "December 21, 2005",
+            "review_content": "\nAlthough a very nice guy and an interesting teacher, Prof. Ciaccio has changed in recent times. He is no longer as laid back about his grading.\nYou probably will not learn much, and get a B for trying. Avoid at all costs.\nHe said he was going to start giving exams too.\nWorkload:\n3 homeworks. Graded harshly.\n"
+        },
+        {
+            "course_name": "Cardiac Electrophisiology and Mapping Methods",
+            "review_date": "May 22, 2005",
+            "review_content": "\nProf. Ciaccio is awesome, to say the least. Nowhere else in the BME department will you find a professor who genuinely cares so much about his students. No matter what subject, I wholeheartedly reccomend any class he teaches.\nWorkload:\nVery very fair.\n"
+        },
+        {
+            "course_name": "Transduction and Acquisition of Biomedical Data",
+            "review_date": "May 17, 2002",
+            "review_content": "\nThis class was a very amusing, sometimes sleepy joke, mostly due to the absentminded professorness of Ciaccio. He's a very nice guy, but scatterbrained is too organized to describe him. He likes to tell random anecdotes so be ready to say, \"Jigga wha...?\" The lectures were interesting and well explained. Even though I took this class because I heard it was an easy A, I actually liked the material. No need for the first semester of this class.\nWorkload:\nThere basically was no workload, no tests. Because of the events of 9-11, Ciaccio made his Fall semester class only consist of note taking and attendance. Therefore, he continued this policy for the Spring semester, guartanteeing everyone at least an A- if notes were taken, class was attended, and you gave the appearance of interest in the lecture.\n"
+        }
+    ]
+}

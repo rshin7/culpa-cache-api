@@ -1,0 +1,26 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Raimondo Betti",
+            "prof_id": 1503,
+            "total_reviews": 3
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": "Theory of Vibrations",
+            "review_date": "March 29, 2013",
+            "review_content": "\nExtremely light workload and straightforward, just memorize the algorithms and solutions for each case. Memorization is 90% of the battle in this class, genuine understanding is not required. Seriously though, memorize every relation and equation in the notes. A large portion of the midterm exam tested our ability to recall as many of these equalities as we could en route to a really simple answer, so I suggest using notecards. Make sure to go to class because he likes using exam questions that refer to material only covered in class and not in the problem sets.\nAs for the professor, strong personality and self-important... The lectures are decent and he seems prepared but he is pretty stubborn and holds grudges. There are much better advisors and professors in the civil department in my opinion.\nWorkload:\nmidterm and final\n"
+        },
+        {
+            "course_name": "Solid Mechanics",
+            "review_date": "March 28, 2003",
+            "review_content": "\nA professor who is here to teach -- and teach well for that matter! Professor Betti will do anything in his power to ensure that the concepts that he presents in class are understood by anyone and everyone. During our semester, he even set up a recitation section which he himself taught to help students who had trouble with the material. Betti's teaching is very down-to-earth, presenting otherwise complicated concepts in a simple, understandable manner. In his lectures, he seeks a discussion with students and challenges them to interact with him, an approach that might scare some people in the beginning. Even though he might seem a little aggressive in his lecturing, his Italian soul lends him to become a tad more involved in the material than other professors, but it keeps the atmosphere of the lecture energetic. This is not a class in which one sleeps!\nWorkload:\nAverage Workload. Long but humane weekly problem sets, one straightforward and fairly graded midterm and final.\n"
+        },
+        {
+            "course_name": "Mechanics of Solids",
+            "review_date": "January 30, 2003",
+            "review_content": "\nA good professor. Organized, knows his stuff, addresses student questions quite well. His lectures are well-structured and the material is adequately introduced and explained. Very approachable outside of class.\nWorkload:\nStandard. A weekly 3-7 question problem set, mostly out of the textbook. Homework isn't difficult and follows closely the material he covers in class. One midterm, one final, both consisting of problems that are more involved, though not much more difficult than those from homeworks.\n"
+        }
+    ]
+}

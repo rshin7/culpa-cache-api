@@ -1,0 +1,16 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Ashish Chhabria",
+            "prof_id": 12605,
+            "total_reviews": 1
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": "Data Structures and Algorithms",
+            "review_date": "January 24, 2013",
+            "review_content": "\nExtremely arrogant, with the worst and rudest TAs (with the exception of Ashish Chhabria, who was very helpful and understanding), but a very effective teacher.\nThe class was very well organized, each class covering a series of slides. The slides are also extremely clear, with very good examples, although there are many small bugs in Pasik's code that you may find while reviewing for tests, which is confusing.\nDefinitely go to class - you learn so much so quickly with Professor Pasik, as much as you may despise being in his presence.\nHe also offers a lot of extra credit, so this class is an easy A/A+.\nAll in all, take this course even though Pasik's personality is awful.\nWorkload:\nfive assignments (one optional, but half of the grade will go as extra credit)\nthree midterms\nfinal (during class, so it's super short and you don't even have to take it during finals week)\n"
+        }
+    ]
+}

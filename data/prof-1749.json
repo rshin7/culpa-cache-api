@@ -1,0 +1,31 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Henryk Wozniakowski",
+            "prof_id": 1749,
+            "total_reviews": 4
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": "Computational Linear Algebra",
+            "review_date": "December 20, 2009",
+            "review_content": "\nThis class is billed as \"practical methods in linear algebra for computer science\". It is, without question, the least practical course I have ever taken.\nWe've all taken Calc III, so we've all seen a class without content before (and let's be honest -- unless you plan to pursue a graduate degree in vision or graphics, all the linear algebra you need for a CS degree fits on the front and back of a sheet of paper). So Prof. Wozniakowski does what any reasonable theoretical mathematician would do, and turns this into a class about theory instead.\nThis is not the problem. The problem is that his \"theoretical\" approach to linear algebra essentially consists of stumbling into class, drawing an arbitrary matrix on the board, and proving its special properties. Do not expect any discussion of the usefulness, significance or relationship of any of the topics you cover. Everything turns out to have very important practical implications, but Wozniakowski will not teach you about them.\nUnfortunately, you also wind up without the tools to do theory yourself. So when his exams ask you to prove new, different things about special matrices, you, and the rest of the class, will fail. The average on the midterm was below 50%.\nYou will come out of this class knowing more things than you ever cared to know about Householder matrices and eigenvalues and the infinity norm and the spectral radius, but you will be able to do exactly nothing with that knowledge.\nAdvice:\n-- Don't buy the book. Gilbert Strang's canonical linear algebra textbook is generally not very good, and it is absolutely useless for this course (every time you go to look up something we discussed in class, Strang simply says \"we won't bother proving this right now\"). One of my classmates remarked that his still has that new-textbook smell because he hasn't opened it.\n-- The TAs were atrocious. Whoever it is next semester, make sure to interrogate them about every homework assignment (this will entail 10 visits to office hours) or your grade will suffer. Over the course of the semester, I was deducted points for such offenses as writing my answer in the middle of the page where the TA couldn't see it, providing a python script that ran normally under CUNIX but not with the TA's fucked-up $PATH, and having the same first name as another student in the class. Be vigilant.\nAt the end of the day, I don't feel like my time was completely wasted, simply because the material we're actually supposed to cover doesn't merit its own class. I feel like things make more sense now that I'm connecting the dots on my own (protip: your enjoyment will be greatly increased if you wiki every word that comes out of his mouth), but I can think of many less painful ways of learning this material, and in the end I'm not sure I really needed it in the first place.\nWorkload:\nBiweekly problem sets, two written problems (one random number-crunching, one a random proof about a random matrix) and one programming problem. DO THE EXTRA CREDIT.\n"
+        },
+        {
+            "course_name": "Computational Linear Algebra",
+            "review_date": "December 13, 2009",
+            "review_content": "\nThe professors does not speak english and  was therefore very difficult to understand in class.  Because the professor does not follow the book there was no real way to figure out what was going on if you did not understand what was happening in class.  Good luck going to office hours - he doesnt even post his office number!  The TA's were not much help either.\nThe midterm was similar to the review questions but nonetheless impossible - he seemed upset at our low performances, but maybe he should have taught us something understandable in class.\nThe homeworks were not impossible, but required extensive wikepediaing as they were neither in the notes or in the book.\nWorthless class.\nWorkload:\nBi Weekly homework - varied in difficulty\n"
+        },
+        {
+            "course_name": "Scientific Computation I",
+            "review_date": "November 07, 2003",
+            "review_content": "\nA very affable old man and a decent lecturer. However I feel that he makes this class harder than it is supposed to be by covering topics not in the book or by going in deeper Math than appropriate and necessary for the Computer Science major. Of course, this can a great thing if you're interested in CS theory, Quantum Computing in particular, which is his field. The average student though may find his class to be reasonable and clear, before he suddenly veers into something nobody understands. Sidenote: this class is at 9:10 so a lot of people don't show up. I missed some classes myself--the apparent confusion is partly our responsibility.\nWorkload:\nBiweekly homework problems that take an hour or two if you understand his lectures (there's little need to read the book if you do). Many of the HWs have extra credit questions, but everyone seems to finish those so I'm not sure how they'll help in the end.\n"
+        },
+        {
+            "course_name": "Computational Linear Algebra",
+            "review_date": "October 30, 2003",
+            "review_content": "\nWhether coincidentally or not, Sci Comp II bears a strong resemblance to Sci Comp I with Traub. This is basically a linear algebra class, except Wozniakowski teaches the material completely differently from how the book (which he doesn't order himself, he just says to get it at the bookstore since its the same book that linear algebra uses) shows the material. His classes are hit and miss. Sometimes he'll teach all new material, provide interesting history behind certain things, and generally make the material engaging. Other classes, however, are boring and drawn out reviews of previous classes. Beware that to do some homeworks, you need the book to understand what is going on. Otherwise, they are pretty easy.\nWorkload:\nBiweekly homework assignments (usually one program, one problem), open-note midterm, final.\n"
+        }
+    ]
+}

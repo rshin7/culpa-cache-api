@@ -1,0 +1,21 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Alon Levy",
+            "prof_id": 5499,
+            "total_reviews": 2
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": "Calculus I",
+            "review_date": "November 04, 2009",
+            "review_content": "\nTerrible teacher, awkward, cloudy, just horrible teacher. Grad student. Need I say more? He doesn't use a textbook, he writes MATH PARAGRAPHS instead of in blocks, his method of teaching is extremely difficult to understand, and his grading methods are just ridiculous. \nWorkload:\nThe workload is one difficult homework assignment each week with no partial credit, two straightforward midterms and a HIGHLY curved final. \n"
+        },
+        {
+            "course_name": "Calculus I",
+            "review_date": "December 24, 2008",
+            "review_content": "\nProbably the strangest, most awkward, and least effective professor ever.  Absurd problem sets and tests created mass confusion and a significant curve that probably saved most.  Mannerisms so bizarre you'll have to restrain yourself from laughing. And I forgot, he's 20 years old.  Get help on the homeworks and use the extra credit to get a very high HW grade and not have to worry so much about the tests (the midterm was relatively straightforward, the final was madness).  All in all- don't do it.\nWorkload:\none intense problem set per week, mid-term and final heavily curved. \n"
+        }
+    ]
+}

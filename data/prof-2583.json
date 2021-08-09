@@ -1,0 +1,16 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Kim Hyungseok",
+            "prof_id": 2583,
+            "total_reviews": 1
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": "Econometrics",
+            "review_date": "June 28, 2005",
+            "review_content": "\nI'm only posting this review because the guy was so incredibly horrible. We had an ok instructor, but Kim was just useless. Aside from contradicting the instructor at every turn, and expecting the class to know matrix algebra, when the course description clearly states that we don't nee to know it, his review sessions were useless, and when we asked him questions about the HW, he was as surprised to see the questions as we were. In short, no exchange if info between TA and instructor, and really lousy TA either way.\n"
+        }
+    ]
+}

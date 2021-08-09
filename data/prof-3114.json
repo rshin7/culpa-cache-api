@@ -1,0 +1,21 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Ivan Sergeyev",
+            "prof_id": 3114,
+            "total_reviews": 2
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": "General Chemistry II",
+            "review_date": "September 04, 2007",
+            "review_content": "\nAmazing TA in terms of teaching and explaining concepts, just awful at writing quizzes. Many suffered because of his extremely long and time consuming quizzes which were pretty much a combination of all the hard problems at the end of the chemistry book. To do well simply sign your life away to that garish blue book and do the problems over and over and over and over again. \n\nWorkload:\n6 quizzes total, you could drop one\n"
+        },
+        {
+            "course_name": "General Chemistry I",
+            "review_date": "December 28, 2006",
+            "review_content": "\nKnows all the answers to any question you may throw at him, explains things with diagrams and step-by-step.  He writes the chapter quizzes for Fine's lectures and sends out emails about which sections of the chapter to focus on.  Quizzes are given at the beginning of class (roughly every two weeks) and are reviewed right after. When we are not taking quizzes, he covers main ideas.  Generally a good TA.\nWorkload:\napproximately one quiz every two weeks. curved at the end!\n"
+        }
+    ]
+}

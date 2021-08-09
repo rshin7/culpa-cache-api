@@ -1,0 +1,26 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Pejman Akbari",
+            "prof_id": 9799,
+            "total_reviews": 3
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": "Introduction to Mechanics of Fluids",
+            "review_date": "August 06, 2015",
+            "review_content": "\nAkbari was great to have for this class. Very funny and entertaining guy as well as a good lecturer.  \nThe class is difficult, but he would consider the work the students did on homework + showing up to office hours in the final grade. After the final, he let everyone go to his office one by one, and would usually add points after discussing what you knew about the problem and why you should have more points.\nMy main complaint was that homework was 50% of the grade. I don't like doing homework.\nWorkload:\n2 midterms and a final. 1 pset a week. Sometimes psets were very difficult, 6 hours a week on homework?\n"
+        },
+        {
+            "course_name": "Intro to Aerodynamics",
+            "review_date": "June 07, 2014",
+            "review_content": "\nThis class got rather full, with nearly all 50 spots filling up. if you want to learn more about aerodynamics, ranging all the way from Mach 0.3 to Mach 10+, take this class. Prof Akbari's approach was to cover a large number of key points with minimal derivation, which seemed like a refreshing change from other classes. The book used was very clear and spelled out all derivations for those interested, The homeworks were nearly all very straightforward, though some near the end of the semester (supersonic shock waves) just take a while when the tables are being used. It is possible to do fine on the homework without going to class, but Akbari is a \"cool dude\" and usually keeps them relatively interesting. It's an easy, fun class if you like the material for undergrad and grad students alike.\nWorkload:\nThe grading isn't too harsh, but Prof Akbari gives unexpected questions on the midterm and final. The average for the midterm was around 65%, but I'm sure that corrected and it was higher on the final. About 11 assignments, 1 each week, plus 1 midterm and a final. Nothing unexpected.\n"
+        },
+        {
+            "course_name": "Mechanical Engineering Lab II",
+            "review_date": "June 07, 2014",
+            "review_content": "\nThis class was interesting in the sense that it was not what I expected compared to Lab I. In Fall 2013, Prof Kysar split Lab I into a few weeks of class-like lessons covering the theory of the experiments before giving us two weeks for each lab. In Lab II, Prof Akbari scheduled about 3 classes summarizing the theory, gave about 10 days per lab, and completed the class with a final exam in early April. Prof Akbari seemed relatively well suited for Lab II, given that 2 of the 5 experiments were related to Fluid Dynamics, but he seemed to leave most of the work to the TAs. There was minimal difficulty in understanding the theory behind every lab, but the actual lab materials occassionally malfunctioned (notably the pyranometer in the solar panel lab). Not a difficult class except that the final exam had a few curveball questions. The best thing you can do is finish the majority of your lab report within 2-3 days of finishing the lab. Remember to do enough review of the theory before going into the lab. Though it may not be possible, if you really want a better group, get enough support and ask the professor if everyone can pick their own lab groups.\nWorkload:\n5 labs (solar cell, fuel cell, wind tunnel, laser doppler, supersonic demo), 4 reports, 1 final. Finishing up the entire class in April is pretty sweet.\n"
+        }
+    ]
+}

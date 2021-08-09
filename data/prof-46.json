@@ -1,0 +1,26 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Steven Nowick",
+            "prof_id": 46,
+            "total_reviews": 3
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": "Advanced Logic Design",
+            "review_date": "January 12, 2017",
+            "review_content": "\nAdvanced Logic Design is a very thorough, very well structured, and meticulously planned course - exactly like Nowick, who teaches it. \nNowick goes through every topic in excruciating detail, but in the process tries to make sure that everyone in the class is following. This can sometimes cause him to be repetitive and boring, but that is just how he teaches. In fact, Nowick is one of those old school, proper chalk and blackboard kinda instructor who likes using multicolor chalks and handmade diagrams to explain his subject matter. I found this approach to be very useful as an effective learning tool, although I know some people who would disagree with me. \nThe course covers an entire range of topics and starts off at the most basically level, quickly yet steadily building up to more advanced concepts in Digital Logic Design. It is an essential course to take if you are interested in digital circuits especially hardware design.  \nNowick is particularly helpful during office hours, always willing to go over concepts with you. In class, he encourages questions and one can see that he wants every single person in the room to follow what he is trying to explain. \n4 Homeworks - 15%\n1 Midterm - 15%\nProject 1 - 15%\nProject 2 - 20% \nFinal - 35%\n1. The Homeworks are not terribly difficult but do take up your time. \n2. Midterm and Finals are both logic based. They take a concept discussed in class, and use it in a new way or put a twist on it. The exams are open book, open notes. \n3. Projects are extremely time-consuming, considerably difficult and have a lot of annoying documentation work along with them, which Nowick insists upon.\nIt is not an impossibly hard course but is very competitive, with class averages always very high for all homework assignments and tests. One small slip can often cost you your grade, since the competition is so fierce. \nWorkload:\nFairly doable in the first half of the semester. Gets a little crazy, towards the last few weeks. On a scale of 1 to Digital VLSI (where VLSI is 10), I'd say the workload for this course is a solid 7. \n"
+        },
+        {
+            "course_name": "Advanced Logic Design",
+            "review_date": "December 14, 2011",
+            "review_content": "\nNowick puts a lot of effort in this course and he is very disciplined, organized and nice person. However, be prepared to spend ample of time on projects and homeworks if you are planning to take this course. He doesn't make jokes in the class and not a very dynamic professor. Another negative side is, sometimes he will just introduce with a new topic briefly and then he will make suck a homework problem or project that you will need to learn everything by yourself to confront it. Having said that, he is very approachable and if you are lucky then you might get some good TAs to use some help from them. I would say, it's not a dead hard course and it's possible to get good grades if you work hard. Also, if you are good with logic design fundamentals then it will be smooth. \nIf anyone is interested to work on digital logic design/ hardware design, then I would recommend to take this course. \nWorkload:\n5 homeworks, one final project, midterm, final (we had to do 2 projects and 4 homeworks).  \n"
+        },
+        {
+            "course_name": "Advanced Logic Design",
+            "review_date": "December 14, 2011",
+            "review_content": "\nNowick puts a lot of effort in this course and he is very disciplined, organized and nice person. However, be prepared to spend ample of time on projects and homeworks if you are planning to take this course. He doesn't make jokes in the class and not a very dynamic professor. Another negative side is, sometimes he will just introduce with a new topic briefly and then he will make suck a homework problem or project that you will need to learn everything by yourself to confront it. Having said that, he is very approachable and if you are lucky then you might get some good TAs to use some help from them. I would say, it's not a dead hard course and it's possible to get good grades if you work hard. Also, if you are good with logic design fundamentals then it will be smooth. \nIf anyone is interested to work on digital logic design/ hardware design, then I would recommend to take this course. \nWorkload:\n5 homeworks, one final project, midterm, final (we had to do 2 projects and 4 homeworks).  \n"
+        }
+    ]
+}

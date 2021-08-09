@@ -1,0 +1,16 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Don Yu",
+            "prof_id": 12357,
+            "total_reviews": 1
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": "Object-Oriented Programming and Design in Java",
+            "review_date": "October 11, 2012",
+            "review_content": "\nLiterally the best TA in the world.\nI've been fortunate enough to have him as a TA for three of my computer science courses, and every time I've needed help, he's been extremely responsive and helpful. He'll help you debug your code and patiently explain theory over and over if you need it.\nDon is very patient during office hours. He was also the only TA in my COMS 1004 course who wasn't trying to make us all get Cs. His TA office hours are always packed because it's pretty known what a great TA he is.\nI pretty much love him.\nWorkload:\nNone, he's a TA.\n"
+        }
+    ]
+}

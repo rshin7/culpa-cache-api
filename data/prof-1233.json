@@ -1,0 +1,31 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Arthur Small",
+            "prof_id": 1233,
+            "total_reviews": 4
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": "Economics of the Environment",
+            "review_date": "January 03, 2005",
+            "review_content": "\nIf you liked Micro with Susan Elmes, you will love Environmental Econ with Arthur Small.  \nThis class is very straightforward and clear. It provides an overview of many issues surrounding the economic policy in regards to the environment, and offers a framework for thinking about these issues. \nTrue, there was a lot of basic algebra in this class, but I think Prof. Small values economic intuition more. (The midterm and final both had short answer 'essay' questions on them). \nNB: The word \"environment\" has many different connotations. The \"environment\" in this class is not the ecosystem, conservation, etc. It is more the economics of how people *share* environmental resources. \nWorkload:\nLectures are very comprehensive and make assigned readings unnecessary for passing the class. Past midterms and finals are posted, which makes studying for the exam very easy. \n3 PS (lowest score dropped). 1 Midterm, 1 Final\n"
+        },
+        {
+            "course_name": "Economics of the Environment",
+            "review_date": "December 21, 2004",
+            "review_content": "\nProfessor Small was a solid teacher. He lectures well and tries to keep the class involved (it was a small class, around 25 students). The material is interesting, if a little basic. \nWorkload:\n3 problem sets the TA solved out in recitation (lower score dropped), a midterm, and a final that were exactly like the practice exams (midterms score is dropped if you do better on the final) \n"
+        },
+        {
+            "course_name": "Economics of the Environment",
+            "review_date": "December 15, 2004",
+            "review_content": "\nWorst class ever. I went in thinking that this was going to be an interesting class about how pollution affects the economy and what I got was Intermediate Micro 2. The class does deal with environmental policy but the mathematical aspect of it. The only good thing is that you don't need a biology background to understand the class. Professor Small is a very respectful individual though and is very responsive to students but that doesn't make up for the way the class is structured\nWorkload:\n3 PS, Midterm, Final\n"
+        },
+        {
+            "course_name": "Economics of the Environment",
+            "review_date": "November 02, 2002",
+            "review_content": "\nA lucid lecturer for an interesting class. Covers all the underlying issues of environmental policy, and how to analyze them from an economic perspective. Heavy theories, ranging from social justice to microeconomic models.\nWorkload:\nMidterm, final, 3 problem sets.\n"
+        }
+    ]
+}

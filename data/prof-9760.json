@@ -1,0 +1,16 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Zoe Smith",
+            "prof_id": 9760,
+            "total_reviews": 1
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": "Elementary Latin I",
+            "review_date": "January 12, 2010",
+            "review_content": "\nZoe is a great teacher and she has a cool New Zealand accent.  She presents the material clearly and is good at answering questions.  The class progresses pretty quickly because there is a lot to learn.  This is Latin I of course so we mostly just learned vocabulary, syntax and translated relatively simple sentences.  The main challenge of the course was developing a good intuition for translating Latin.  As in any language course, this takes a lot of practice.  The first quarter of the class is spent going over the trickier parts of the homework ,which is helpful, and the rest of the class is spent covering new material.  There are weekly quizzes which are a good way to boost your grade and they make sure that you are keeping up with the class.  I really enjoyed this class. Zoe deserves a gold star from culpa. \nWorkload:\nclass covers first 9 chapters of the Learn to Read Latin textbook by Keller and Russel.  homework due each class, weekly quizzes, fair midterm and final\n"
+        }
+    ]
+}

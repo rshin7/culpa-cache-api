@@ -1,0 +1,16 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Sara Novic",
+            "prof_id": 13145,
+            "total_reviews": 1
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": "University Writing",
+            "review_date": "June 08, 2015",
+            "review_content": "\nGreat class, great professor. Highly recommended. \nWorkload:\nThe usual University Writing workload: 4 major writing assignments plus weekly exercises and readings.\n"
+        }
+    ]
+}

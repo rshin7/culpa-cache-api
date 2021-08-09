@@ -1,0 +1,16 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Wen Wang",
+            "prof_id": 4495,
+            "total_reviews": 1
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": "Solid State, Microwave, and Fiber Optics Lab",
+            "review_date": "December 09, 2009",
+            "review_content": "\nWhere to even start.  Wen Wang is such a character.  All EEs have to take this lab, so you're not graduating without going past him first, and he knows it.  But don't worry: he is smart, he has been in the industry for a long time, and he knows that you are intelligent.  It shows from your lab reports.  \nMost importantly: BE ON TIME.  You'll be fine on the weekly lab reports, due two weeks after each lab.  Both the reports and the labs are done in groups.  If you show up late, you will see your name crossed out on the sign in sheet in red pen, and while I have no idea what impact this has on my grade, it probably doesn't help.  Each lab session starts with a lecture (\"May I have your attention, just five minutes...\" followed by 10-30 minutes of what seems like rambling but actually turns out to be somewhat interesting if you listen in, followed by \"OK now transport your soul back to solid state, to microwave, to fiber optics... my well trained assistants will show you...\").  Throughout the semester, he talked a lot about the final exam.  Also, not to worry.  Wen Wang promised on the first day that he will \"Only teach you things that you remember for the rest of your life... no one will remember Maxwell's equations...\" and the \"Final exam\" (which, quite honestly, we didn't know we were taking) reflected this (some questions were similar to what you might expect at a consulting interview).  \nA few things that you might take away from the course:\n- Without the laser, the entire internet would evaporate\n- No other industry has something like Moore's Law scaling - 50 years ago you eat a sandwich, today you eat the same sandwich, if you eat a smaller sandwich you're still hungry\n- If you see Stephen Hawking and he tells you that the universe is infinite but bounded, TELL HIM THAT'S BULLSH1T!!!  And never lose the child-like curiosity.\n- If you cannot visualize the band diagram, it means you DO NOT UNDERSTAND THE DEVICE\nWorkload:\nWeekly lab report in groups of three.  Punctual lab attendance is imperative.\n"
+        }
+    ]
+}

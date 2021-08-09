@@ -1,0 +1,21 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Dan MacDougal",
+            "prof_id": 3116,
+            "total_reviews": 2
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": "General Chemistry I and II",
+            "review_date": "March 28, 2007",
+            "review_content": "\nDan is a great, if not the best, TA for this course. He makes sure that all the assignment problems are covered by the time you take the midterm and outlines the sections nicely during recitation. He's great in office hours and very approachable; take him if you can.\nWorkload:\n5 quizzes in recitation throughout the duration of the course\n"
+        },
+        {
+            "course_name": "General Chemistry I",
+            "review_date": "December 31, 2006",
+            "review_content": "\nDan \"The Man\" MacDougal was an awesome TA, what he taught me in recitation far surpassed anything that I gained from going to class. Dan The Man was very effective in teaching complex concepts by putting them into layman\u00c2\u2019s terms that I could understand, I would pray to God that you get Dan as your TA.\n"
+        }
+    ]
+}

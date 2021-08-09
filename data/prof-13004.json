@@ -1,0 +1,21 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Allison Lewko",
+            "prof_id": 13004,
+            "total_reviews": 2
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": "Analysis of Algorithms I",
+            "review_date": "May 21, 2016",
+            "review_content": "\nI have mixed feelings about this course. It repeats a ton of material from Data Structures, more or less on the same level. There is some new material, but it doesn't feel like a semester's worth. Overall, the material was not particularly interesting. I guess you learn all the standard algorithms you should know: the theory of divide-and-conquer and greedy algorithms, then some classic sorts and graph algorithms. \nThe lectures were fine. A little slow, but presented reasonably. The slides are online, which is nice, and the textbook is pretty standard. The level of rigour was adequate.\nHowever, the homeworks were painful. The problems themselves were not hard, but the TAs were brutal. They often complain about a supposed \"lack of rigour\". In a good math of theory class, you're supposed to write however much you need to show what you know. But in this class, you're supposed to write however much you need to show a toddler how to do it themselves. This felt like a waste of time for the students and the graders.\nThe exams were graded much more forgivingly, though. \n\nWorkload:\n5 homeworks, lowest dropped. 2 exams.\n"
+        },
+        {
+            "course_name": "Computer Science Theory: Computability - Models - Computation",
+            "review_date": "November 19, 2014",
+            "review_content": "\nWell organized notes, very straightforward exams - very similar to the practice questions she provides.  Probably one of the nicest professors on Columbia's campus.  Office hours incredibly helpful. \nWorkload:\nBi-weekly homework assignments (~8 hrs each). Midterm, final exam.\n"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Edmond Chow",
+            "prof_id": 3754,
+            "total_reviews": 2
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": "Numerical Methods",
+            "review_date": "July 20, 2010",
+            "review_content": "\nI feel I owe it to all fellow math / app math majors to write this review. Chow is the worst professor I have had at Columbia, bar none, and this class is a disaster. \n1. Chow's lectures are tedious and boring: he spends too much time doing trivial algebra on the board, which do nothing to clarify concepts. He speaks in a soft monotone, and he can't tell a joke from a hole in the ground. \n2. Chow very quickly establishes a favoritism in his classroom. He memorizes names of the few people willing to guess at his inane and questions, and constantly encourages \"class participation,\" which evolves into a toolier-than-thou arms race. \n3. Throughout the semester, Chow threatens the class with his willingness to fail students who aren't performing. This is a pointless threat which serves only to create unecessary stress about this class; definitely not appreciated.\n4. The head TA (some PhD student named Neil Tandon) was by a huge margin the worst TA I've ever seen. This guy could barely choke out a coherent sentence, and held completely and utterly useless recitations with no attempt to clarify anything. If you have this guy, be afraid; be very afraid. \n5. The material itself is interesting. Numerical Methods opens up a new perspective on solving mathematical problems. The analytic approaches of calculus are now supplemented with a new array of concerns. It's a shame, really.\nI know there aren't many choices when it comes to this class, but if any other slots open up (or if you can take the equivalent course in the ComSci department), don't hesitate to switch. The professor makes frequent reference in class to the fact that he doesn't need to be teaching this class. Perhaps it would be better for everyone if he didn't. \nWorkload:\nYou have 2 weeks to do the problem sets, but they can honestly be pounded out in about 4 hours. It doesn't really matter how much effort you put in, because the grading is so subjective and arbitrary that even correct answers will never get full points.\nMidterm was very easy. Final was very hard.\n"
+        },
+        {
+            "course_name": "Numerical Methods",
+            "review_date": "May 16, 2010",
+            "review_content": "\nEdmund Chow is a really good guy.  He puts a lot of time and effort into this class, going above and beyond what most professors would do.  The material is interesting and the book is well-written.  This class was a roller coaster, though.  It was stressful and miserable at times (despite engaging lectures) but at others it was hands down my favorite class.  It is hard to write a review for a course like this, except to say that I wish that all of my professors were as dedicated as Prof. Chow.  \n \nWorkload:\nModerate to heavy since it is important to do the readings and the problem sets can be intense.  One piece of advice: go to Prof. Chows review sessions before the midterm and final! They are extremely helpful!\n"
+        }
+    ]
+}

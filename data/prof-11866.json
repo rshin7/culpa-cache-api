@@ -1,0 +1,16 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Susan McGregor",
+            "prof_id": 11866,
+            "total_reviews": 1
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": "Topics in Computer Science: Storytelling with Streaming Data",
+            "review_date": "April 05, 2016",
+            "review_content": "\nI must say this at the very beginning: \n######## WARNING #######\nIf you want to learn anything about computer science, DO NOT take this course! This is a journalism course with computer science course number.\nThe professor is always talking about something she knows in journalism, and she is kind of \"anti-technology\". Only the guest speaker will leave some programming assignments, which will count 15% of the final grade in total.\nThe final project could be a disaster if you naively think this is a computer science course.\n65% of the course depends on the final project and the instructor strongly prefer it to be a pure journalistic one. No computer science involved.\nWebsites? NONONO! \nPhone apps? NONONO! \nCloud computing? NONONO!\nMachine learning? NONONO! \nData mining? NONONO! \nNatural language processing? NONONO!\nWrite loooooooooong reports? YESYESYES!\n\nWorkload:\nFair...The three \"programming assignments\" are acceptable. Attendances are taken every week. However, the final project is the most confusing part.\n"
+        }
+    ]
+}

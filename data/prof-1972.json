@@ -1,0 +1,21 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Gregory Whalen",
+            "prof_id": 1972,
+            "total_reviews": 2
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": "Programming Languages: C++",
+            "review_date": "September 09, 2004",
+            "review_content": "\nhe is awesome, he is very helpful in answering students' questions, he is there to answer ur questions and he actually cares about our progress, instead of just wanting to make us have a hard time struggling, his homework is helpful, i got an A in that class because i tried hard to do my homework well, but i dunno if it is easy, i put in a tremendous amount of work to get a perfect  score\nWorkload:\n4 assignments1 final\n"
+        },
+        {
+            "course_name": "Intro to Computer Science- Programming in C",
+            "review_date": "January 21, 2004",
+            "review_content": "\nThis instructor is your typical cs nerd.  He speaks with a dry wit, and he trails off the end of sentences, but you quickly learn that anything he says under his breath is not important.\nPersonal quirks aside, he taught competently; I don't have any complaints.  He explained information clearly and covered everything he said he would.  He gave good answers to the many, many questions I asked in class, clarifying a lot of confusing aspects of the language and never making me feel stupid for asking a \"dumb\" question.\nWorkload:\nDisclaimer: I am not a cs person, and this was a summer course, so I have no idea what a \"reasonable\" workload is.  I thought it was reasonable though: We had four time-consuming homework assignments spaced throughout the semester, so about one per week, as well as a final, which wasn't too hard and probably raised my average.  He had a very fair system of three \"late days\" that could be used up as needed.  Grade also included class participation, which was considered either questions asked in class or comments submitted at break.\n"
+        }
+    ]
+}

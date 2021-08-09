@@ -1,0 +1,16 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Belgica Ramirez",
+            "prof_id": 3176,
+            "total_reviews": 1
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": null,
+            "review_date": null,
+            "review_content": null
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Ben Soskis",
+            "prof_id": 2245,
+            "total_reviews": 3
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": "U.S. in the Era of Slavery and Jacksonian Democracy",
+            "review_date": "October 13, 2007",
+            "review_content": "\nBen is flippin awesome--funny, self-deprecating, and dazzles with his mini lectures and his ability to steer discussion into productive channels.  For a good time, go with Ben.  \n"
+        },
+        {
+            "course_name": "American Society in the Age of Capitalism 1819-1897",
+            "review_date": "December 31, 2004",
+            "review_content": "\nBy far the best TA I have ever had.  Intelligent, humorous, and well-spoken, he did a fine job leading discussion.  He was more than willing to meet with students about papers and help generate topic ideas.  I am sure he will be a great professor someday.\n"
+        },
+        {
+            "course_name": "American Society in the Age of Capitalism 1819-1897",
+            "review_date": "December 02, 2004",
+            "review_content": "\nBen is sweetness. He seems nervous and shy the first time he teaches class, and he never loses that demeanor but you eventually learn he has some of the best nerdy humor around.  At first I was afraid he wasn't going to lead a discussion well enough or be commanding enough but not only was he adequate to the job he also made discussion pretty relaxed and fun.\n"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Susan Jacobs",
+            "prof_id": 2955,
+            "total_reviews": 4
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": "Elementary Greek II",
+            "review_date": "October 23, 2006",
+            "review_content": "\nIt is hard to imagine a better teacher than Susan.\n"
+        },
+        {
+            "course_name": "Elementary Greek I",
+            "review_date": "September 06, 2006",
+            "review_content": "\nA really wonderful teacher.  She's incredibly patient and always willing to help outside of class.  As the previous reviewer mentioned she makes handouts for every class and goes over everything that people have trouble with.  It's still a really difficult class with a ton of work, but Susan does everything possible to help her students.  \nWorkload:\nWeekly ten minute quiz (no big deal if you go over stuff before) and daily translations.  Two midterms and a final as well.  \n"
+        },
+        {
+            "course_name": "Elementary Greek I",
+            "review_date": "August 24, 2006",
+            "review_content": "\nSusan is great.  She has tremendous dedication not just to teaching, but to teaching well.  Greek isn't easy; nobody is going to make it seem easy; but Susan makes it no harder than it has to be, and makes sure you learn it well.  You simply won't find a better instructor in Greek, and I'd be surprised if you found one teaching an introductory class in any language at Columbia.\nWorkload:\nQuizzes every class, graded reasonably -- if she writes one that everyone bombs, she usually won't count it.  Homework that will take ages -- but so would anyone else's, don't kid yourself, this is first-year Ancient Greek.  Exams that are hard, but good grades are well within reach if you study adequately.\n"
+        },
+        {
+            "course_name": "Elementary Greek I",
+            "review_date": "May 31, 2006",
+            "review_content": "\nA real gem.  Susan was able to make learning Greek relatively straightforward.  She is also infinitely patient with her students who can struggle with the difficult material.  She gives handouts for every lesson which summarize the new grammar and forms and these prove incredibly helpful in gaining a command of Greek.  You'll have to spend lots of time outside class working on what you've learned, but it's worth it for those who are serious about learning Greek (or any language). Definitely recommended for all budding classicists.\nWorkload:\nA short, ten-minute quiz every day (really helps you keep on top of things), weekly homework assignments (generally translations, not terribly difficult), two midterms and a final.\n"
+        }
+    ]
+}

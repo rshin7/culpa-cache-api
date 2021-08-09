@@ -1,0 +1,16 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Gregory Eirich",
+            "prof_id": 10843,
+            "total_reviews": 1
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": "Data Analysis",
+            "review_date": "December 06, 2013",
+            "review_content": "\nProfessor Eirich takes pride in his work and cares deeply about teaching. It is obvious that he puts a huge amount of thought into the course. What's more, he is enormously friendly and an empathetic, engaging lecturer.\nThe course is mostly a survey of regression techniques at either a high introductory or low intermediate level. The material is tailored to social science research and the assignments are designed to facilitate an outside research project like a masters thesis. Professor Eirich is a savvy statistician and a dedicated sociologist, and exposure to high-quality statistical practice is worth at least as much as proofs and matrix notation. He is also willing and able to answer both highly technical and highly intuitive questions, and will gladly go out of his way to find answers that he can't produce in class.\nProfessor Eirich and his Data Analysis course are a huge asset to the QMSS program that I would recommend to anyone looking for an introduction to linear and logistic regression.\nWorkload:\nAs light as it gets in grad school. Weekly assignments, two take-home exams, and a final project.\n"
+        }
+    ]
+}

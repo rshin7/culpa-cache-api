@@ -1,0 +1,21 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Allen Boozer",
+            "prof_id": 2238,
+            "total_reviews": 2
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": "e&m;",
+            "review_date": "August 30, 2006",
+            "review_content": "\nFunny guy, if you pay a little bit of attention; he'll make his blackboard diagrams into dirty jokes.\n"
+        },
+        {
+            "course_name": "Applied Electrodynamics",
+            "review_date": "November 29, 2004",
+            "review_content": "\nOverall a great professor. He shows up a few minutes early to class to answer questions/chit chat w/ the students. The problem sets are 1-4 questions based upon old midterm and final questions (which means that there are no surprises on the tests). His lectures follow the class notes almost exactly, but that's not a bad thing. My one complaint is that he periodically mumbles into the blackboard, but that doesn't happen more than 1x or 2x a lecture for about a phrase.\nWorkload:\nPset every week (1-4 problems), based upon old midterms and finals\n2 midterms and 1 Final (no notes)\n"
+        }
+    ]
+}

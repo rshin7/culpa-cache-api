@@ -1,0 +1,16 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "James Thomas",
+            "prof_id": 464,
+            "total_reviews": 1
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": "Reactor Kinetics and Reactor Design",
+            "review_date": "December 31, 1999",
+            "review_content": "\nProfessor Thomas is an above-average professor who seems to enjoy the material he teaches. His lectures are very structured and straightforward. Kinetics is a somewhat complex subject, but Thomas's lectures make it \"more accessible\" to the chemical engineering student. Put it this way -- you won't fall asleep in class. He likes to interject humor during his classes, which is welcome by the students. Overall, he's a really nice guy. The course is structured as follows -- there are 6 quizzes, each counting for 10% of your grade, and the final is worth the remaining 40%. Each quiz covers one chapter in the textbook, so it's not a bad deal. Much better than a single midterm, in my opinion. You won't be taking this course unless you're a Chem. E. major in your senior year, but it's one of the better Chem. E. courses... Look forward to it. :-)\nWorkload:\nAside from studying for the quizzes, there is really no work to be done, since the assigned homework is not collected (of course, it helps to do the problems when studying...). And there's the final exam.\n"
+        }
+    ]
+}

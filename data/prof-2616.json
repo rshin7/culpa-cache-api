@@ -1,0 +1,31 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Chris Murphy",
+            "prof_id": 2616,
+            "total_reviews": 4
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": "Object-Oriented Programming and Design in Java",
+            "review_date": "April 11, 2007",
+            "review_content": "\nTechnically Chris was a TA when I took the class but since he was pretty much awesome and taught his own section I'm considering him a professor. He's young and funny and classes aren't too boring. He makes the material very accessible even for people who are entirely unexposed to computer science. The class itself is okay and while the material may not be too challenging at times, the exams (which were actually written by professor Canon) can be a bit more difficult than expected.\nWorkload:\nBasically weekly homework alternating between written theory questions and programming. Exams should be studied for at least a little bit. Grading was pretty fair.\n"
+        },
+        {
+            "course_name": "Intro to Computer Science- Programming in Java",
+            "review_date": "January 21, 2007",
+            "review_content": "\nchris' lecture is not interesting but not bad either. all Comp sci TAs suck except for a chinese guy named matt. hard to get good grades. They assume you know about computer science before you start the class, although it's an intro class.\n\nWorkload:\na lot... but chris cannot do much about workload though.\n"
+        },
+        {
+            "course_name": "Intro to Computer Science- Programming in Java",
+            "review_date": "May 11, 2006",
+            "review_content": "\nI can only echo the other reviewer.  Chris was the difference between dispair and hope, sobbing and solace, cursing the darkness and compiling code.  He was ever patient and a true gentleman.  Half the students would come to his office in a panic, at the last minute, having not attended classes, with code that bore little relevance to the class assignment, he would work with them and make them understand and pull through.\nWorkload:\nThis is a course with what seems on the surface a reasonable amount of work.  That is, until you spend man-days on non-compiling code.\n"
+        },
+        {
+            "course_name": "Intro to Computer Science- Programming in Java",
+            "review_date": "September 06, 2005",
+            "review_content": "\nI had this class with Aho, who is I'm sure a really brilliant guy, but is also the head of the dept and used to teaching grad students, so he had no idea how to come down to my level and teach an INTRO course.  The TA was AMAZING. saved my life. he's really helpful, teaches better than the teacher, and really puts his all into helping you understand and get your programs to work. Also holds good final reviews.\n"
+        }
+    ]
+}

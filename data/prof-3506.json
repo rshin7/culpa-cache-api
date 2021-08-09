@@ -1,0 +1,16 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Dan Ellis",
+            "prof_id": 3506,
+            "total_reviews": 1
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": "Digital Signal Processing",
+            "review_date": "December 10, 2008",
+            "review_content": "\nProfessor Ellis is without a doubt the worst professor I have ever had. If you want a good introduction to DSP, look elsewhere.\nThe course is good for the first few weeks, when it is an extension of Signals and Systems. After that point, there is no hope. The lectures are 100% powerpoint, with some Matlab demos mixed in. He skips around between slides and moves much too quickly. If you expect any effort on his part, you will be disappointed. Ellis doesn't care if you learn, and it shows.\nFor grad students: if you've taken some sort of DSP before, this course probably won't be so bad. Other undergrads and I were overwhelmed, but the older folks seemed to be doing OK.\nWorkload:\nDecent - HW every week, plus a project. The exams are difficult.\n"
+        }
+    ]
+}

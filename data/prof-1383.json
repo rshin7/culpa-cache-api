@@ -1,0 +1,21 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Reiko Uchida",
+            "prof_id": 1383,
+            "total_reviews": 2
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": "Advanced Piano Instruction",
+            "review_date": "April 04, 2003",
+            "review_content": "\nShe's wonderful and super nice-- she gives good technical advice but minimal advice on interpretation of the music itself.  She shows you ways to figure out what you want to do with the piece. She never criticizes, but she'll point out if you're doing something she disagrees with and give you suggestions on how to improve. She doesn't push you though, so it's up to you to be motivated to practice and improve. \nWorkload:\none hour lesson a week, practice as needed, repertoire is pretty much self-chosen and self-paced.\n"
+        },
+        {
+            "course_name": "Intermediate Piano Instruction",
+            "review_date": "December 25, 2002",
+            "review_content": "\nIncredibly sweet, nice woman, but not a great teacher. She is always running behind schedule. She teaches good practice techniques, but is very nitpicky and won't let you finish playing a piece until its perfect, which can be an absurdly long time.\nWorkload:\nPractice when you can, she's an easy grader. half hour lesson once a week.\n"
+        }
+    ]
+}

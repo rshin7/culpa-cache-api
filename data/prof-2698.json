@@ -1,0 +1,21 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Jamil Zaki",
+            "prof_id": 2698,
+            "total_reviews": 2
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": null,
+            "review_date": null,
+            "review_content": null
+        },
+        {
+            "course_name": "Cognition: Memory and Stress",
+            "review_date": "December 12, 2005",
+            "review_content": "\nA future star of psychology. Jamil is an incredible TA - likeable and funny, knows lots of about his field, and easily to approach. At review sessions, he goes out of his way to make sure you understand everything. Really, really excellent TA.\n"
+        }
+    ]
+}

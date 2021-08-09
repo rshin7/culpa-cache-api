@@ -1,0 +1,16 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Thomas Peters",
+            "prof_id": 2970,
+            "total_reviews": 1
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": "Linear Algebra",
+            "review_date": "July 10, 2006",
+            "review_content": "\nThis was a good course with a good instructor. Peters is a nice guy, is very receptive to students, and has a good command of the subject. He also has an engaging and interactive method of teaching, so you feel like you're discovering the material, rather than simply memorizing definitions and properties. He's only a first year grad student, so he sometimes struggled to give a feeling for why the material was important (in the larger, mathematical sense). The class was very computationally oriented, so we did come away with a good number of immediately useful mathematical tools (least squares, Gramm-Schmidt, singular value decomposition, etc.).\nWorkload:\nSix problem sets, due weekly. The homeworks focused very much on computational problem solving (i.e. problems with a concrete, numerical answer). The homeworks were sometimes time-intensive, but never very difficult (all homework was from the book). Six quizzes, midterm, and final, which pressed you for time but weren't overly hard.\n"
+        }
+    ]
+}
