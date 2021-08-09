@@ -1,0 +1,21 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Emily Stolfo",
+            "prof_id": 11574,
+            "total_reviews": 2
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": "Ruby On Rails",
+            "review_date": "May 15, 2013",
+            "review_content": "\nThis was a great class - I only wish it were a whole semester!\nEmily is totally fantastic and has a really great practical perspective as a full-time Rails programmer at 10gen (the rest of the dept is great, but sometimes you want someone whose last time pushing production code wasn't in 1976).\nAsk her questions - she'll answer them in depth, no matter how elementary.\nRyder was a great TA - very responsive, came to every class, and was able to handle a group of 20+ students all of whom were learning a new programming language (some of whom, including me, learning the basic concepts of web programming for the first time).\nFor the final project, despite the fact that he had his own finals to study for, he was available via email and answering questions fully (which is in itself remarkable) and also without the usual rancor that accompanies responses to last-minute requests for help.\nWorkload:\n5 short programming assignments graded /10, 1 final project that builds on those assignments.\n"
+        },
+        {
+            "course_name": "Ruby On Rails",
+            "review_date": "September 19, 2012",
+            "review_content": "\nGreat Professor. \nLet me first say, I did not actually end up taking the whole class - I had to drop it because of course load issues. \nNot taking the class in no way reflects on Prof. E Stolfo as an instructor. She is one of the few profs that lives and works in the real world in the 21st century. She responds to emails right away with helpful answers and is very proactive about helping students. \nShe is a particularly valuable resource thanks to her experience in the NY tech startup scene. She works for 10gen - the creators of MongoDb (which I would recommend over Sql any day)\nMoreover, she went above and beyond her Columbia duties. After I dropped the class, we continued to correspond. In the end she inspired me to learn RoR on my own. \nShe is a rare gem and a valuable resource.\nHopefully they can figure out a way to get her back next semester. \nWorkload:\nReasonable\n"
+        }
+    ]
+}

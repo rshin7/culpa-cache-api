@@ -1,0 +1,21 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Josh Avins",
+            "prof_id": 2513,
+            "total_reviews": 2
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": null,
+            "review_date": null,
+            "review_content": null
+        },
+        {
+            "course_name": "Organic Chemistry",
+            "review_date": "May 05, 2005",
+            "review_content": "\nsmart guy but sort of a dead beat.  the other TA's were always sending practice sheets out to their students and shit but Josh didn't do a damn thing.  WTF?\n"
+        }
+    ]
+}

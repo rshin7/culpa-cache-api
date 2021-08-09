@@ -1,0 +1,21 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Elizabeth McArthur",
+            "prof_id": 2274,
+            "total_reviews": 2
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": "University Writing",
+            "review_date": "December 16, 2005",
+            "review_content": "\nGreat Prof.  If you get Elizabeth consider yourself lucky.  Very flexible, and very enthusiastic about the material. You really suck at writing if you get below a B on a paper from her....Great Prof \nWorkload:\nStandard 4 papers.  Everyone got a 5/5 on the group presentations....She grades pretty easily....\n"
+        },
+        {
+            "course_name": "University Writing",
+            "review_date": "December 19, 2004",
+            "review_content": "\nElizabeth is absolutley the best person to take this class with.  She is flexible with deadlines, very helpful with her comments, always avaliable for extra help, and most importantly, extraordinarily nice.  If you have Beth, consider it a blessing.  \nWorkload:\nWorkload is the normal four papers and weekly assignments.  Group presentation for CCP is a cinch, all three groups in my section recieved 5/5, and her grading is pretty easy.\n"
+        }
+    ]
+}

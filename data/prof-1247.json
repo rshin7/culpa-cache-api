@@ -1,0 +1,26 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Elizabeth Pearlman",
+            "prof_id": 1247,
+            "total_reviews": 3
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": "Ballet I",
+            "review_date": "March 20, 2003",
+            "review_content": "\nLiz is like a big sister who dances ballet and you'd love her from the first class--those who dropped off is because they cannot survive the 9AM class twice a week--but those who are passionate enough to get up that early would really enjoy it and feel it is worth it. Liz is really nice and sweet, she never makes fun of anyone who dances like a moron or who is even overweight damaging the bar. afterall everyone loves her!\nWorkload:\nnone or lose some weight for those of you who wanna dance up easier--there are lots jumps and supporting to do...\n"
+        },
+        {
+            "course_name": "Ballet I",
+            "review_date": "November 18, 2002",
+            "review_content": "\nLiz is probably the most patient person on the planet. She is a fantastic dance teacher. She's big on technique and is very good at explaining exactly what she wants you to do, even to the point of naming the specific muscle she wants you to use. When she gives corrections she is tactful and will work with you until you get it right, yet doesn't make you feel like you are being put on the spot. She is spunky, funny, and makes everyone feel like they are important. \n"
+        },
+        {
+            "course_name": "Ballet I",
+            "review_date": "November 12, 2002",
+            "review_content": "\nPearlman is an amazing dance teacher. She is very sweet and cares very much about her students. She is very serious about technique and to help you get it right she explains what muscles you should be using and will give as much individual attention as needed. She is energetic and fun and I can honestly say that I ENJOYED getting up for her class at 9.\n"
+        }
+    ]
+}

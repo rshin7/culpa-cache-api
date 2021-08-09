@@ -1,0 +1,26 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Azfar Adil",
+            "prof_id": 2498,
+            "total_reviews": 3
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": null,
+            "review_date": null,
+            "review_content": null
+        },
+        {
+            "course_name": "Physics Lab",
+            "review_date": "February 13, 2006",
+            "review_content": "\nI have to agree with the previous review. Azfar is clear and concise. He explains everything from beginning to end in a very logical manner. As a lab TA he won't just tell you what to do but he'll also tell you WHY you're doing it. He's hard report grader but the curve makes up for it in the end. He'll also give you a one day extension if you ask for it but not more than that, which I like because so many TA's let other students hand in reports at the end of the semester. Unfortunately, most of those students ended up doing their labs during FINALS week. Overall, I wish Azfar was my physics professor freshmen year.   \n"
+        },
+        {
+            "course_name": "Accelerated Physics I",
+            "review_date": "April 22, 2005",
+            "review_content": "\nAzfar is, bar none, the finest TA I have ever had.  He is clear, concise, interesting, smart and, most importantly, correct.  His work with the 2800 classes saved many students, myself included, from C+'s.  He knows his stuff and knows how to explain it far better than either the text or the professor.  If the world were just, Azfar would be put on tenure track immediately.  The amount of good this one man could do for the general understanding of physics is immense.\nSimply put: if you ever have a chance to take any sort of class in which Azfar is involved, do it.\n"
+        }
+    ]
+}

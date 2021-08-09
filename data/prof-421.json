@@ -1,0 +1,16 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Richard Friedberg",
+            "prof_id": 421,
+            "total_reviews": 1
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": "Intro to Electricity, Magnetism and Optics",
+            "review_date": "December 31, 1999",
+            "review_content": "\nI can at least say that this guy knows his stuff. He's a good lecture, but as with many other physics teachers it's pretty common to be completely lost in his classes. If you're awake and you know what he's talking about, it's not a bad lecture to sit through. He does tend to stray off into needless detail on some derivations, but you can't really escape that with physics classes.\nWorkload:\nHomework is well-chosen and useful but plentiful and difficult; sometimes you could do without all the math he makes you slog through.\n"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Banks Violette",
+            "prof_id": 1150,
+            "total_reviews": 3
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": null,
+            "review_date": null,
+            "review_content": null
+        },
+        {
+            "course_name": "Basic Drawing",
+            "review_date": "June 08, 2003",
+            "review_content": "\nBanks is a great guy.  He recognizes that most of his basic drawing class is composed of people taking the class for fun or to satisfy a requirement and adjusts his teaching style accordingly.  I went in terrified that I wouldn't be a good artist, that I'd be embarrassed evey day of class, and that it would be a thoroughly unpleasant and humiliating experience.  Banks' laid-back style, however, creates a relaxed and stress-free atmosphere in which people to feel enough confidence in their abilties that they can concentrate on improving their skills rather than stressing out about how few skills they may actually have.  All in all, this class is a great experience, especially for a beginning artist.  \nWorkload:\nNot bad.  2.5 hours of class time two days a week and a few out-of-class assignments now and then.\n"
+        },
+        {
+            "course_name": "Basic Drawing",
+            "review_date": "June 01, 2002",
+            "review_content": "\n\"I don't know how to draw.\" This is what \"Banks\" said to his students the first day of class. As a result, the semester long class was him experiementing with ways to teach a class he was not really prepared enough for. He's a nice guy, the projects are okay, but don't expect too much. You're unlikely to be enlightened, but you will learn somewhat because you do spend hours in class and at home doing projects. If you're self motivated, then you will get a lot more out of it, but if you are not really an art person then don't take it, beause you will only be bored. Not a great class, but neither is it bad. Just \"eh nothing special.\"\nWorkload:\n2:30 hour blocks of drawing time. Lots of HOURs on projects and need to do outside sketching if you really want to improve. Need to spend time on projects, unlike writing a paper the night before. Not possible. \"Art is never finished.\"\n"
+        }
+    ]
+}

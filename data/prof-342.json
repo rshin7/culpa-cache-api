@@ -1,0 +1,16 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Eric Marcus",
+            "prof_id": 342,
+            "total_reviews": 1
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": null,
+            "review_date": null,
+            "review_content": null
+        }
+    ]
+}

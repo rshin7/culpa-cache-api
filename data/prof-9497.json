@@ -1,0 +1,16 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Vijay Saraswat",
+            "prof_id": 9497,
+            "total_reviews": 1
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": "Principles and Practices of Parallel Programming",
+            "review_date": "December 06, 2011",
+            "review_content": "\nCourse without any textbooks/reference books\nOnly thing you can *rely* upon is class lectures that are nothing more than few lines long on topics that range from almost everything to everything in parallel computing.\nOne Instructor Vijay Saraswat is more interested in telling what X10 can do and what HE can do rather than teaching something that we could understand. One of the worst courses I took in all my life.\nVijay did not teach rather he just tested again and again what students know beforehand....everything he spoke only 3-4 in class could make out what he is talking about.Worst idoit I have every seen.Really sick of this person and unable to find suitable words to match culpa requirements.\nAll IBM bastards were equally crap and they were also not so interested in teaching but i dont know wtf..\nJust could not make out things unless you studied them beforehand(I mean in your undergraduate or so..)\nGot really really frustrated after taking this course, did not learn anything great here except some shit like asyncs , streams etc..\nDont take this course unless you have to just fulfill credit requirements and there is no other course to take.\n\nWorkload:\nheavy with assignments with stuff that they rarely teach in class well.He will just talk some shit in class about some sentences and give you to figure out rest....such an ass\n"
+        }
+    ]
+}

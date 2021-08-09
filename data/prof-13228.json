@@ -1,0 +1,16 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Mohamed  Haroun",
+            "prof_id": 13228,
+            "total_reviews": 1
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": "Intro to Machining",
+            "review_date": "May 12, 2016",
+            "review_content": "\nHate the ivory tower? Fancy a career focused on manual labor? Well...there's a class for you! The two scariest people in Mechanical Engineering, Sinisa Vukelic and Mohamed Haroun have teamed together to teach you how to cut metal!\nJokes aside, this class is a lot of work. It's also potentially dangerous. Like you could die if you're not careful. Perhaps the only other class where this is possible is PE scuba. Look up \"industrial lathe accidents\". Anyways...\nI took the class pass/fail during an experimental phase, so I don't know what direction Prof. Vukelic plans on taking it in (I'm not even sure you'll get to choose whether or not to take this class). I do, however, know that it will likely still involve machining 4 parts, writing G-code (machine assembly language), attending lectures and taking a few brief 10-minute quizzes.\nThe parts take time to machine accurately, probably averaging 8+ hours each. Also, you're going to constantly be asking the lab-tech for help-- if they're not around, you're stuck. The machines are in high demand. You end up pointlessly having to walk to Mudd only to discover the lab-tech isn't around/the machines are all booked.  \nWorkload:\nmachine 4 parts (1 manual mill, 2 CNC mill, 1 lathe), MasterCAM a part, write G-Code to simulate cutting a raised letter\n"
+        }
+    ]
+}

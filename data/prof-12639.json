@@ -1,0 +1,16 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Ryder Moody",
+            "prof_id": 12639,
+            "total_reviews": 1
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": "Ruby On Rails",
+            "review_date": "May 15, 2013",
+            "review_content": "\nThis was a great class - I only wish it were a whole semester!\nEmily is totally fantastic and has a really great practical perspective as a full-time Rails programmer at 10gen (the rest of the dept is great, but sometimes you want someone whose last time pushing production code wasn't in 1976).\nAsk her questions - she'll answer them in depth, no matter how elementary.\nRyder was a great TA - very responsive, came to every class, and was able to handle a group of 20+ students all of whom were learning a new programming language (some of whom, including me, learning the basic concepts of web programming for the first time).\nFor the final project, despite the fact that he had his own finals to study for, he was available via email and answering questions fully (which is in itself remarkable) and also without the usual rancor that accompanies responses to last-minute requests for help.\nWorkload:\n5 short programming assignments graded /10, 1 final project that builds on those assignments.\n"
+        }
+    ]
+}

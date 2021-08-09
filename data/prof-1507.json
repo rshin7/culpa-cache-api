@@ -1,0 +1,21 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Yolande Daniels",
+            "prof_id": 1507,
+            "total_reviews": 2
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": null,
+            "review_date": null,
+            "review_content": null
+        },
+        {
+            "course_name": "Core Studio I",
+            "review_date": "February 04, 2003",
+            "review_content": "\nAbsentee studio critic that missed some 30% of studio days with no notice, earning her the nickname \"Nolanda\" and amusing the 12-person studio with her inability to call people by their right names late in the semester.  Condescending when not reticent during desk crits.  Responds to questions mostly with a refined combination of annoyed vagueness and \"like, whatever\"-style vocal inflections.  Generally conducted the studio with disinterest making for a thoroughly disappointing semester. \n"
+        }
+    ]
+}

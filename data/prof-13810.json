@@ -1,0 +1,51 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Yassine Benajiba",
+            "prof_id": 13810,
+            "total_reviews": 8
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": "Natural Language Processing",
+            "review_date": "April 14, 2021",
+            "review_content": "\nBland professor, with unengaging presentation and informative slides that capture a handful of core NLP algorithms and concepts. You are better off not attending the meaningless lectures that include little elaboration of slides, mundane anecdotes/tangents, and students trying to show off through their questions.\nA standard course that requires medium to little effort and teaches useful information, however the course is incredibly boring to attend - despite how interesting the subject is and its applications can be.\nWorkload:\nHomeworks are straightforward requiring only a few hours, and exams are also easy to prepare for and from algorithms/contents covered clearly. Note, downgrading is common with even a 94 translating to A- floor, so adjust grade expectations accordingly. \n"
+        },
+        {
+            "course_name": "Natural Language Processing",
+            "review_date": "February 17, 2021",
+            "review_content": "\nBenajiba is obsessed with the fact that he works in the industry. That usually translates well to teaching, but he just reads off of slides and doesn't end up teaching much. I would pick one of the other professors simply by virtue of being able to actually learn stuff. He goes over neural network architectures but doesn't actually explain how they work. He more just says \"here! this is an architecture! here's a diagram!\" \nBut wait! There's worse! He curves down! How much, you ask? Right after giving the final lecture about the curses of overfitting, he releases final exam grades and says that a 94 equates to an A-. That's right, a 93.9 is a B+, when the average on the final exam was in the 80s. \nI would avoid him at all costs. If you want to learn NLP, go to another professor. If you want a good grade, go to another professor. The only reason you should want to take a class with him is if you need the credits and are Pass/Failing his class since his threshold for a pass is 49%. \nWorkload:\n4 programming psets. There is no teaching about how to use Keras and Tensorflow, so you'll have to do that yourself. The actual work is very little though; you're just pasting pseudo code. Exams were deceptively easy, which means if you miss one question you might get curved down a letter grade.\n"
+        },
+        {
+            "course_name": "Natural Language Processing",
+            "review_date": "January 09, 2021",
+            "review_content": "\nYassine is not a great instructor and he mostly just reads off of Prof. Bauer's slides. The curriculum itself is pretty dry and is mostly focused on semantic and dependency parsing, with a little bit of neural models thrown in at the end. I don't think I can actually do anything useful with what I learned in this class. Given that its a COMS 4xxx class, there are lots of MS students in the class who want to impress him, and mostly end up talking to him about GPT-3 or some other research paper the entire time; he gets off topic very easily. His homeworks are incredibly easy and also taken from Prof. Bauer, and exams are very easy as well. However, this is a big problem, since most of the class will end up with 90+ on everything, so he curves down. He required a 94 for an A-; that's right, folks, your 93.9 is a B+. This is absolutely ridiculous in my opinion and he needs to reassess how he evaluates us since one small mistake will be the difference between an A and a B+. I do not recommend this class at all; if you must take NLP, at least take it with someone else.\nWorkload:\nLight. 4 easy homeworks that equate to translating pseudocode into Python. Midterm (easy) and final (easy). Beware though; you will be curved down.\n"
+        },
+        {
+            "course_name": "Natural Language Processing",
+            "review_date": "January 05, 2021",
+            "review_content": "\nThe homeworks are all graded leniently and the exams are very straightforward. Similar sentiments with the other reviews. However, beware that while you might get decent scores on the homework and exams, the final grades are based on a curve. This includes curving downward. Apparently averages were higher this semester, and an A was a 96% or higher, an A- was a 94-96%, and a B+ was a 89-94%.\nWorkload:\n4 homeworks, leniently graded\n"
+        },
+        {
+            "course_name": "Natural Language Processing",
+            "review_date": "December 20, 2020",
+            "review_content": "\nOne of the best professors I have studied. In a nutshell, by taking this course, you can gain an understanding of the NLP concepts from the early days until the recent advances in NLP.\nThe professor makes sure that the student retains the most important aspects of NLP from the course, supplementing the material with research papers, philosophical views and ideas, etc as and when applicable.\n\nWorkload:\nIf you are interested in NLP, the workload shouldn't be much. Grading is not too strict.\n"
+        },
+        {
+            "course_name": "Natural Language Processing",
+            "review_date": "May 20, 2020",
+            "review_content": "\nHis in-person 3-hour lectures were sometimes dry, but I think that had more to do with the fact it was on Friday and back to back then him as a lecturer. I thoroughly enjoyed watching his lectures at my own pace on video and I really appreciate all the extra tidbits he brought to class- book recommendations, funny videos showing a concept, research papers, interview advice. He clearly cares about his students and does a good job sharing his passion for NLP with interested students. \nThis was my favorite CS class by far. The programming projects are fun and challenging and give you the tools to start your own NLP projects.\nIf you pay attention and class and go to recitation, the exams are not too difficult.\nWorkload:\nbi-weekly homework (leniently graded) 50%\nmidterm 20%\nfinal 30% \n"
+        },
+        {
+            "course_name": "Natural Language Processing",
+            "review_date": "March 06, 2020",
+            "review_content": "\nSome of the best professors I've had at Columbia and I've taken many classes with some of the most popular profs in different departments. I understand why a few people might find the class dry but I think the bitterness is mostly due to the workload and the rigor of the course. While the material is not rocket science, it takes a certain focus and imagination to see the bigger picture in the field of NLP. Yassine clearly knows a lot and is always excited about bringing to class some of the latest developments in NLP. I personally love the intuitive way in which he explains things and never feel the need to read much beyond attending the lectures. And that's how it should be.\nThe homework problems can be a bit annoying especially the do-the-algorithm by hand part but it also definitely helps with understanding how things work. The programming assignments are super fun and some of the best I've had in the department. We're provided with a  clean scaffolding of the code which is unseen in any of the Intelligent Systems track classes. Because of that I feel like we don't get dragged into writing stupid and time-consuming systems around the crux of whatever we're learning. You just get into writing the NLP model/algorithm.\n \nWorkload:\nbi-weekly assignments\nmidterm - final\nshould be an easy A if you pay attention in class\n"
+        },
+        {
+            "course_name": "Natural Language Processing",
+            "review_date": "January 14, 2020",
+            "review_content": "\nabsolutely useless, learnt nothing. \nWorkload:\nheavy\n"
+        }
+    ]
+}

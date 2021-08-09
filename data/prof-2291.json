@@ -1,0 +1,16 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Britt Reichborn-Kjennerud",
+            "prof_id": 2291,
+            "total_reviews": 1
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": "Introduction to Experimental Physics",
+            "review_date": "December 19, 2004",
+            "review_content": "\nPhysics Lab was required for my major, unfortunately.  After not learning anything in previous physics classes, the physics itself actually wasn't so hard.  You simply go once a week to a lab and follow instructions.  The average lab took an hour and a half, even though it was scheduled to go three hours.  Then you write up the lab and turn it in the next week.  For the lab reports, the hardest thing to do is error propagation; the rest is pretty straightforward.\nWorkload:\nNegative:  Weekly lab reports, 3+ hours of writeup and calculations, with pretty graphs\nPositive:  No midterm or finals, which is nice.\n"
+        }
+    ]
+}

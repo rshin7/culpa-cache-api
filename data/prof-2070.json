@@ -1,0 +1,21 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Gerald Navratil",
+            "prof_id": 2070,
+            "total_reviews": 2
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": "Applied Electromagnetism",
+            "review_date": "March 02, 2006",
+            "review_content": "\nAverage professor.  Knows his stuff, teachs it on about level for 3000 and isn't boring enough for it to be a major issue.  Hard to approach but not because of his personality; he's so busy that it's hard to find him.  Your best chance is actually making an appointment.\nShort fair problem sets which are are likely too easy if nothing else.  Exams are moderate with plenty of time allowed.  The biggest problem you'll ever have is when he tells you what he won't put on the exams and the exact type of problem happens to make up 1/3 of the actual exam.\nWorkload:\nIf you're on the top of your class it's laughable.  If your in the lower portion it's not too bad and you can expect to get rocked later on if you find it hard.\n"
+        },
+        {
+            "course_name": "Applied Electromagnetism",
+            "review_date": "May 09, 2004",
+            "review_content": "\nIf you want an easy A, this is the class for you. If you want to actually learn E&M;, you're probably better off trying 3007. Professor Navratil will occasionally break from the physics to show where we actually see the stuff in a lab, but that hardly compensates for how little depth the class goes into. The problem sets are too easy to actually learn the material, and the exams are so easy that a good grade is meaningless.\nWorkload:\nA short problem set every other week. 2 midterms: one open book, one closed, both easy. Open book final, also easy\n"
+        }
+    ]
+}

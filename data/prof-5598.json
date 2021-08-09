@@ -1,0 +1,21 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Charles Lawry",
+            "prof_id": 5598,
+            "total_reviews": 2
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": "Music Humanities",
+            "review_date": "October 11, 2009",
+            "review_content": "\nLow intensity, you'll spend most of class just listening to the works rather than analyzing them which is nice.  One take-home, multiple-choice online midterm (we had 5 days to do it), the same deal for the final exam.  One paper on 5 pieces of music-100 words or less one each piece.  Also offered extra credit and spent time on the intersection of dance and music towards the end.  A good pianist, too.\nWorkload:\nLight.\n"
+        },
+        {
+            "course_name": "Music Humanities",
+            "review_date": "March 30, 2009",
+            "review_content": "\nSuch a great Music Hum teacher.  Charles is easy-going and inspiring.  Plays piano in class, always a plus.\nWorkload:\nLight compared to other sessions.  Exams were short, final paper was surprisingly difficult.\n"
+        }
+    ]
+}

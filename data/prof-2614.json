@@ -1,0 +1,16 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Ivan Khotulev",
+            "prof_id": 2614,
+            "total_reviews": 1
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": "Macroeconomics",
+            "review_date": "September 05, 2005",
+            "review_content": "\nIvan\u00c2\u2019s clear review of the material, along with his emphasis on problem solving, enabled me to do well on the exams. Ivan is a great TA: always accommodating, knows the material cold, and responds promptly to emails.\n"
+        }
+    ]
+}

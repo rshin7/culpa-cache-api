@@ -1,0 +1,36 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Christina Leslie",
+            "prof_id": 595,
+            "total_reviews": 5
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": "Intro to Computer Science- Programming in Java",
+            "review_date": "February 06, 2009",
+            "review_content": "\nMs. Leslie is a very sweet teacher. She's very young, and she's very approachable. She will give you all the time in the world if you need help understanding something. She presents all her lessons well, using powerpoint presentations. Good speaker. I took the class with no programming experience as a freshman, and got an A. I did, however, go to her office hours every week, so she got to know me and I did get extra review. But I wouldn't do the assigned readings, and usually didn't pay good attention in class. Programming is fun, but sometimes frustrating when you don't see your mistake. She will extend deadlines if everyone is behind.\n\nWorkload:\nmoderate\n"
+        },
+        {
+            "course_name": "Computational Genomics",
+            "review_date": "May 23, 2003",
+            "review_content": "\nCompare to other 4000 level classes such as OS and PLT, this class is an easy technical elective. Christina Leslie is a very caring teacher, even though her lectures can be boring and involve a lot of materials. She writes a lot on the board and you'll have to go to class in order to do the exams. The textbook is virtually useless. The tests are open book and based on the class notes, so, GO TO CLASS AND YOU'LL GET an A.\nYou'll need substantial biology background to truely enjoy this class, though biology is not needed to ace this class.\nWorkload:\n3 Homework assignments, midterm, final and a project (it doesn't sound as much as it is)\n"
+        },
+        {
+            "course_name": "Data Structures and Algorithms",
+            "review_date": "January 22, 2003",
+            "review_content": "\nGood teacher.  I enjoyed her class and felt she really strove to help us understand everything.  She frequently stayed significant time after class to answer all remaining questions and did so happily.  I would recommend her class if you have the option.\nWorkload:\nPleasant.\n"
+        },
+        {
+            "course_name": "Data Structures and Algorithms",
+            "review_date": "December 04, 2001",
+            "review_content": "\nShe 's really good, i like her alot. She put alot of effort into teaching... Perfect professor. In office hours, she always try to help you, really patience... A++ =]\nWorkload:\ncrazy... that's a given.\n"
+        },
+        {
+            "course_name": "Intro to Computer Science- Programming in Java",
+            "review_date": "April 11, 2001",
+            "review_content": "\nThank god they opened up an introductory computer science course for the non computer science major. If you're not planning on majoring in comp sci, I advise taking this introductory course as opposed to CS1007. At the beginning of the course I thought Prof. Leslie was the worst teacher on the face of the earth, but then I realized that Comp Sci is just the worst subject on the face of the earth and that she is actually a pretty good teacher. She clearly presents ideas that are very complicated to understand. Her lessons are very structured and she makes the material as simple to understand as it can possibly be. Don't be alarmed if your a bit confused for the first 2 or 3 weeks, because if you've had no comp sci background (much like I had none when taking this course) it takes a little while to get used to the concepts. Prof. Leslie is an excellent teacher, although she is a bit nervous up there (i.e.: she laughs a lot when she talks and she writes EVERYTHING she says on the board!!!!! (in other words, if she says, \"It's sunny today\" you better believe it'll be up on the blackboard\")). She is also very approachable and extremely understanding. So besides needing to relax a little, she is a great teacher, and she made comp sci bareable for someone (aka: me) who HATES comp sci with a passion.\nWorkload:\n6 homeworks: 1 due every 2 weeks. (they are long, but doable, so start early) COUNTS AS 50% OF YOUR GRADE SO TAKE THE TIME TO DO THEM WELL!!!! One midterm: 15% of grade and the final: 35% of grade. Fair tests.\n"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Vijay Modi",
+            "prof_id": 3149,
+            "total_reviews": 2
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": null,
+            "review_date": null,
+            "review_content": null
+        },
+        {
+            "course_name": "Thermodynamics",
+            "review_date": "January 15, 2007",
+            "review_content": "\nModi is one of the most reasonable professors I've had here so far. He actually seems to care that students understand the material. He also encourages student interaction, which is helpful because then he can tell what he's explaining well and what isn't clear to the class (and overall, he does a clear job teaching). The TA was also excellent. \n\nWorkload:\nWeekly homework sets, 4-8 problems, depending on what's been covered.\n"
+        }
+    ]
+}

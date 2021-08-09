@@ -1,0 +1,26 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Takaki Hayashi",
+            "prof_id": 915,
+            "total_reviews": 3
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": "Time Series Analysis",
+            "review_date": "May 12, 2005",
+            "review_content": "\nOh lord, how difficult it is to give this guy a good review.  Although Hayashi is supposedly known for his work in financial time series, he comes across as a scatterbrain in class.  The course is horribly organized, there is little continuity between topics, and important concepts are often omited for students to read about in one of two textbooks, each with its own notation -- very confusing.  His lack of teaching ability is evidenced by the fact that he cannot manage his time well in class.  In the first part of the course, he pounds the same concept into submission, but then realizing that there is only half a semester left to go, he jumps to ludicrous-speed leaving the students all but confused.\nHopefully Hayashi isn't the only one teaching this class, but I fear it might be this way.  The only thing you can do is to hang on and frequently supplement class with reading the textbooks.  But the subject material is definitely enlightening even if Hayashi's class isn't.\nWorkload:\n7-8 problems sets, extremely short midterm and final, but very very harshly graded.  There is an extra credit opportunity in the form of a time series analysis project.\n"
+        },
+        {
+            "course_name": "w4107 Statistical Inference",
+            "review_date": "July 06, 2003",
+            "review_content": "\nI took this class with a very good background in probability, calculus, and analysis. This guy taught straight from the book except he skipped the explanations and proofs so you didn't really understand why things worked. In order to understand what he said, you have to sit in the front and come having read the material. He did not show how to apply the material to problems, and so the hw was extremely painful (thank god for good TA). The tests seemed completely different from what he taught, and were altogether impossible. Though he curved well at the end, this was a painful experience. Also, he was completely inaccessible.\nLoad: hw once every two weeks: ~5.5 hours 1 midterm, 1 final.\n"
+        },
+        {
+            "course_name": "Intro to Statistics (B)",
+            "review_date": "January 20, 2002",
+            "review_content": "\nThis professor has mastered one  thing, if anything, and that is pointing  at the board and staring back at a  completely listless class. He  prepares notes and all examples  straight from the book, so there  sincerely is NO reason to go to class  unless you can't make yourself keep  up in the book on your own. Just  memorize your formulas, and the  exams will pose no challenge at all.  He tries to put one curveball on each  test, but you may get lucky and have  a TA like ours who decides she will  give out hints and solutions as she  proctors a test. In summation, yet  another non-learning experience at  Columbia University!!\nWorkload:\nhomeworks about once a week,  midterm, and final\n"
+        }
+    ]
+}

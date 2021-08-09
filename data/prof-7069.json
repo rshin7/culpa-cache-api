@@ -1,0 +1,16 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Siddhartha Dastidar",
+            "prof_id": 7069,
+            "total_reviews": 1
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": "Global Capital Markets",
+            "review_date": "January 02, 2015",
+            "review_content": "\nSid\u2019s a pretty chill guy. He works at a hedge fund which deals with distressed securities and really knows his sh*t. As someone who has no background in finance, I found this class to be on the harder side just because there was a lot of vocabulary I had to learn in order to solve problems.\nYou learn about fixed income in the first half of the class - NPV, bonds, hedging, convexity, duration, forward rates, futures and swaps. The second half is equities and options (CAPM and brief overview of Black-Scholes included). The class is completely quantitative. All homework and exams involve problem solving. Find an arbitrage trade, hedge the portfolio, construct a portfolio to match the option, what\u2019s the value of new shares issued, etc. There isn\u2019t any hard math - it\u2019s all simple algebra and there\u2019s almost no calculus involved. The hard part is knowing all the terminology and strategies. There are a lot of them and you quickly understand that finance is about the nitty gritty details, not general theoretical understanding.\nThere were 4 insanely long HWs (actually one of them was ok) that took forever to complete. The midterm was incredibly long and many students didn\u2019t finish it in the 3.5 hrs allotted. The final was shorter and more reasonable, though still on the harder side. Problems are computationally difficult with lots of room for numerical mistakes even though you get to use a calculator. Honestly, for the midterm, we should have been allowed to use Excel to be fair.\nAbout 90% of the class had a strong finance background either from quant/trading internships or previous classes, so it was hard to do well when everyone else was getting excellent scores. Also, they're almost completely masters students who have done this stuff before. Sid\u2019s not consistent with grading. He initially said that HW would be graded on a check minus/check/check plus grading scheme, but we were later awarded numeric grades to 2 decimal points. After the midterm, he said that anyone with over a 105/150 would get at least on A-, but judging from the final grades awarded, I don\u2019t think he was that generous.\nSid has a pretty strong Indian accent and talks really fast. It was hard to understand him in the beginning of the class but it\u2019s manageable once you get used to it. His slides are also stolen from the B-school version of this class and he skips a lot of them during lecture which is kind of annoying.\nOverall, a good class where you\u2019ll learn a lot, especially if you\u2019re interested in the capital markets but have no prior experience.\nWorkload:\n\n4 HWs\n1 midterm\n1 final\n1 project (optional - if you want to reduce the weight of your exam scores)\nAll very long and hard. He has a variable grading scheme to change the weights to maximize your score. It's still difficult to get a good grade though.\n"
+        }
+    ]
+}

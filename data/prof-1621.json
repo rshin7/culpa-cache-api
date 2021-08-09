@@ -1,0 +1,61 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Tal Malkin",
+            "prof_id": 1621,
+            "total_reviews": 10
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": "Advanced Cryptography",
+            "review_date": "May 21, 2016",
+            "review_content": "\nWhat a fun course! Each lecture, professor Malkin presented an overview of a recent cryptography result. Very interesting without getting caught up in tedious details. Here [http://www.cs.columbia.edu/~tal/6261/SP16/] is an overview of the topics she did this semester, although it changes from class to class. \nLecture was only a small part of the class. The main event the project. The goal was to read up on an area of cryptography, discuss an open problem, then attempt to do original research in it. Professor Malkin was very helpful in the process, and she put a lot of time into helping groups find papers and work on results. It presented a glimpse into what crypto research is like. Everyone presented their work on the last day of class.\nThis class assumes a background in cryptography and theoretical computer science. You should be comfortable with proofs, especially the proofs of security used in cryptography.\nWorkload:\n1 problem set, weekly readings, and 1 project. Grades were not a focus, I'm assuming everyone did well.\n"
+        },
+        {
+            "course_name": "Computer Science Theory: Computability - Models - Computation",
+            "review_date": "May 03, 2015",
+            "review_content": "\nProf. Malkin is the best. Not only does she understand and explain the material very thoroughly, she also makes a genuine effort to learn her students' names and engage the class. She has this one-liner which she uses when nobody raises their hand: \n\"You either do not understand and should ask a question, or you understand and can give me the answer.\" - Prof Malkin's honesty/authenticity shows through in one-liners like this one. \nLecturing style - probably one of the best lecturers in the department. She does this thing where she gives a hand-waving, intuitive explanation of something, and then shows it formally. \nShe is extremely approachable and very open about how grading is done in the class. Prof. Malkin and her TAs put in an try very hard to make the course fair, always retroactively applying a policy change to all students if one student brings it up, and I think that this attitude starts at the top with Prof. Malkin setting the example. \nWorkload:\nA written homework every week. Some of them are easier than others - the hardest ones might take you a few hours to do well.\n"
+        },
+        {
+            "course_name": "Introduction to Cryptography",
+            "review_date": "December 31, 2011",
+            "review_content": "\nA pretty good class. Prof. Malkin makes a point of offering both conceptual and formal treatments of the material, which in principle is nice (as just about every result in crypto is deeply counterintuitive); in practice, I found her lemma-proof-theorem teaching very clear, but the high-level explanations so vague as to be practically useless. Part of the issue was that a large portion of the class didn't really have the mathematical maturity necessary for this course, and she would get bogged down answering basic questions and then have to rush through material. She got better at this (i.e. stopped answering stupid questions) as the semester went on, but it remained frustrating throughout.\nHomework assignments were well-designed. Fernando (the TA) was a real stickler for rigor, and I definitely learned to be more careful about writing up proofs by the end of the semester. Midterm (in class) and final (take home) were both trivial; I don't know what the final average was, but due to the aforementioned mathematical maturity problem midterm scores were shockingly low.\nAs a side note, this can be a great class even if you're not specifically interested in security. I was in learning theory at the same time, and my final project for that class relied on a bunch of cryptographic hardness assumptions---this is about a lot more than secret codes.\nWorkload:\nLight. A problem set once every couple of weeks that usually took me 2-3 hours (including typesetting). Don't cut corners on your proofs.\n"
+        },
+        {
+            "course_name": "Computer Science Theory: Computability - Models - Computation",
+            "review_date": "December 30, 2007",
+            "review_content": "\nPotentially a very dry topic, but Prof. Malkin was able to make it interesting. Mostly because she seems to believe a great deal in class participation, and engaged students in every derivation.\nOverall, I'd rate her highly.\nWorkload:\n~1 hw per week. 1 midterm, 1 final. Not too bad.\n"
+        },
+        {
+            "course_name": "Computer Science Theory: Computability - Models - Computation",
+            "review_date": "May 14, 2007",
+            "review_content": "\nHell if I know. I never went.\nThe website says \"CS Theory is the last course required of all CS undergrads\", but it should probably be more like \"CS theory is the last course of the day, don't bother.\" The topics mostly overlap with other courses (data structures) -- if you stay at home and read up on regexps and such, you'll be completely fine. The homeworks are basically perfect reflections of what you're accountable for, so if you can do them you're set.\nI'm not really complaining about Tal, she's pretty OK. At the end of the day, it's just another CS course repeating the same damn curriculum.\nWorkload:\nTen homeworks (good for maybe an hour of work each, if you do the reading). Midterm and final with cheat sheets. Overall, pretty light.\n"
+        },
+        {
+            "course_name": "Computer Science Theory: Computability - Models - Computation",
+            "review_date": "April 16, 2007",
+            "review_content": "\nProf Malkin is very approachable and is definitely on your side - but she won't go find you, you have to send her e-mails and especially go to her office hours. Her lectures are thorough and cover the book material pretty strictly, but I think she'd be more helpful if she spent a little more time structuring the material, saying \"You are here\" in the grand scheme of Computation and it's Proofs. Indeed, I think a map could be drawn of the proofs and their relationship to one another - this would help a lot in understanding the dependencies of proofs upon each other.\nWhatever you do READ AHEAD OF THE LECTURE. This stuff is nearly impossible to simply hear and absorb in clas, so having thought about the concepts beforehand will make all the difference in the world. Hell, you might even enjoy it.\n\nWorkload:\nNot too bad - homeworks don't count for much - but the tests are really based on the homeworks, so if you skip those, you'll be screwed come mid-terms/finals.\n"
+        },
+        {
+            "course_name": "Introduction to Cryptography",
+            "review_date": "August 29, 2004",
+            "review_content": "\nIf you don't your remember probablity and other math from Algorithms then don't bother taking this class because you'll get killed.  In other words, don't ignore the prerequisties for the class because the Prof. will assume that you're comfortable with all the concepts that she listed on the class website. Her lectures are not that good and neither is her handwriting. Fortunately, she makes everybody participate in this thing where in each lecture a student is chosen to take notes for the class. The student is then responsible for converting the notes into LaTeX or PDF and share it with the rest of the class. There are 6 homeworks and one final exam. The homeworks are pretty long so start early. They'll require you to do some mathematical proofs, encryption scheme design, and other theoretical stuff. Take this class only if you're really interested in Cryptography. \nWorkload:\n6 hard homeworks, one final exam\n"
+        },
+        {
+            "course_name": "Advanced Cryptography",
+            "review_date": "May 19, 2004",
+            "review_content": "\nThis course is definitely a heavy theory course. The lectures were fairly long, but definitely well done; Professor Malkin is an excellent lecturer. She doesn't use PowerPoint, which I personally consider a plus, though it means that you can't skip lectures if you expect to learn something from them.\nWorkload:\nThe workload ended up consisting of writing a research paper. It couldn't just be a literature survey; it had to include original work, or analysis of a research field, or somesuch. I thought this was good -- it allowed us to take concepts introduced in the lectures and use them (or not use them) in our own work as we saw fit.\n"
+        },
+        {
+            "course_name": "Computer Science Theory: Computability - Models - Computation",
+            "review_date": "August 06, 2003",
+            "review_content": "\nProf. Malkin is one of the is the best professors I have had in the CS department.  She's brilliant, but can explain topics clearly and doesn't make you feel like a moron.\nGo to class because the homework and test questions are based on her lectures.  She's very friendly and approachable.  However, don't even try to BS her.  She will not give out last minute extensions (unless you have an emergency) and collects homework at the beginning of class or it's considered late.\nTake the time and do the problem sets yourself.  This is one of those classes where you cannot cram the night before the test and expect to do well.  You have to really understand the concepts.\nWorkload:\nProblem set every week, reasonable midterm and final.\n"
+        },
+        {
+            "course_name": "Computer Science Theory: Computability - Models - Computation",
+            "review_date": "May 13, 2003",
+            "review_content": "\nGreat professor who really, really knows her stuff. Lectures well and does not use slides (as Grunschlag does) so going to class is important. Friendly and helpful during office hours. Funny and very likable! Subject material itself is very interesting and creative, but can also confuse and/or frustrate (especially people who are not very mathematical) because it is all proofs and the problems are extremely interrelated and similar. Reading ahead a bit before lecture would definitely help tremendously.\nWorkload:\nAbout 10 problem sets, midterm, final. Quite manageable.\n"
+        }
+    ]
+}

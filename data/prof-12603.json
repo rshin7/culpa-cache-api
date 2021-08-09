@@ -1,0 +1,16 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Donald Green",
+            "prof_id": 12603,
+            "total_reviews": 1
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": "Empirical Research Methods",
+            "review_date": "January 21, 2013",
+            "review_content": "\nProfessor Green is a great professor who joined us from Yale. Very knowledgable on the subject of American Politics (esp elections) and research methods (esp experimental methods), he makes the lectures very interesting with a range of articles from different disciplines of political science (AP, CP, IR). His exams and assignments are easy. That said, you will only cover the very introductory materials. You will have encountered most of the things learnt in this class in intro to statistics. The only new things were in the second half of the class on experimental methods.\nNB. You will learn R instead of STATA.\nWorkload:\n3-5 articles per week. \nExams for each module (three) and a final exam. \nThree assignments for each module.\n"
+        }
+    ]
+}

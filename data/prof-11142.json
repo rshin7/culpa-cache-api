@@ -1,0 +1,16 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Vinod Prabhakaran",
+            "prof_id": 11142,
+            "total_reviews": 1
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": "Topics in Computer Science: Machine Learning for NLP",
+            "review_date": "May 07, 2011",
+            "review_content": "\nAn enjoyable, informative, and (really, really) laid-back class. Like the title suggests, it's about ML applications to NLP, but since just about every machine learning model anyone's come up with has been used for NLP at some point, it tends to focus on problems Collins himself has worked on or is working on now. This is obviously a Good Thing: he was obviously excited about most of the material in the class (I don't think I've ever heard the phrase \"fun algorithm\" used more or with such earnestness) and made it exciting to learn as well.\nHe's a phenomenally clear lecturer---I took this class concurrently with ML, and the contrast between Collins' presentations and Jebara's insane ramblings couldn't be clearer. I'd encountered a couple of the models we talked about in this class before and struggled with them; MC made everything effortlessly comprehensible. The slides are also good enough that you can get away with skipping the assigned papers (though you really shouldn't; I stopped after about two weeks but am hoping to catch up during the summer).\nAt times it felt like half the department was taking the class; other days there were only five people there. Obviously he's a big fuckin' deal, and just about everyone in the NLP group, faculty included, showed up at some point to watch the man himself teach. I'm still not sure how many people there were auditors rather than enrolled students. That said, both he and Vinod were very accessible during OO and by email.\nI'm pleased to see that he's teaching NLP next fall---he'll bring some much-needed rigor to Hirschberg's class (which is well-intentioned but a little fuzzy around the edges). I really enjoyed this semester and hope I have the opportunity to take something else with him again before I graduate.\nWorkload:\nRemarkably, at times disturbingly, little. Two problem sets, both assigned near the end of the course and requiring more time to typeset in LaTeX than they did to solve. The main event is the final project, but even that is pretty low-key: the writeup is only six pages long if you're working by yourself, and Vinod seemed surprised when I gave him something in the form of a journal article rather than a lab report.\nI don't know if MIT students are all crybabies, or if Collins feels compelled to dumb himself down for us (I hope it's the former); either way, don't let the 6 in front of the course number fool you into thinking that the material will make you sweat.\n"
+        }
+    ]
+}

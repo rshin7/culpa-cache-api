@@ -1,0 +1,16 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Vinay Vaishampayan",
+            "prof_id": 4509,
+            "total_reviews": 1
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": "Data Compression",
+            "review_date": "September 12, 2012",
+            "review_content": "\nCourse:Data Compression[E6884]\nProfessor: Vinay Vaishampayan\nProfessor gave an impression initially that course would be self contained and easy if lectures were given due attention. Later it turned out to be otherwise mainly due to poor grading even after scoring high to range of 75-80 % marks.\nMid sem exam was reasonable but final exam turned out to be nightmare. He expected us to solve out complex mathematical problems using Matlab.\nAdvice: Do not take this course if you do not have strong inclination towards Data Compression.\nWorkload:\nAssignments were handed out almost every 1-2 weeks. Exams were take home.\n"
+        }
+    ]
+}

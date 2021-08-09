@@ -1,0 +1,26 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Qile Chen",
+            "prof_id": 11916,
+            "total_reviews": 3
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": "Linear Algebra",
+            "review_date": "December 20, 2012",
+            "review_content": "\nChen is smart, and is always willing to help. It's just that everything you can possibly get out of his lectures is all in your textbook, and the textbook does a better job in teaching. At least it doesn't murmur. \nHe pretty much copies down the textbook on the blackboard. Even the examples are straight from the textbook. It makes things easier since you don't have to take notes (that are hard to understand if you haven't learnt the material beforehand) as long as you buy your textbook. I figured it out when I was studying for the final. It would've been much nicer if I knew that earlier. \nChen uses his own notations of things like (*) and others. I still do not fully understand what some of them mean, and I didn't have to. \nThe first half of the class is easy, since linear algebra is like that. However, you might have to actually study for the second half. The test problems are reasonable and well-written with okay curves.\nMake sure you understand the material enough so that you don't have problem with more computational (and thus easier) ones from the homework. You don't need to memorize the proofs at all; Chen might not be a good lecturer, but he is a nice guy. His demands are very reasonable and doable.\nWorkload:\n10 to 15 questions /week. He will only consider 10 best scores out of like 12~13 homeworks. \n2 midterms and a final. 1st midterm is easier.\nYou pretty much have to learn the material yourself, but Linear Algebra is not a hard subject and his tests are reasonable\n"
+        },
+        {
+            "course_name": "Linear Algebra",
+            "review_date": "December 04, 2012",
+            "review_content": "\nThis is literally the worst class I have ever taken. Qile is completely incomprehensible as a teacher, making class time completely unproductive. If you want to succeed in this class, you will have to do so solely by reading the textbook. In addition, Qile is completely unhelpful outside of class, refusing to provide any review materials for the assessments or even introduce the class to our TA. Overall, this class is absolutely horrible. No student should have to suffer through this. This class has taken any interest I ever had in math and utterly obliterated it. \nWorkload:\nWeekly homework, but figure at least a few hours every week to read the material that Qile \"covered\" in class. Usually ended up cramming a bunch before each midterm. \n"
+        },
+        {
+            "course_name": "Calculus IV",
+            "review_date": "May 14, 2012",
+            "review_content": "\nThe first two months or so of this class are fine, because they follow the traditional Columbia math model of following word-by-word, example-by-example from the book.  This takes advantage of the fact that generally the professors are ill-suited for teaching a classroom full of English speakers, which is certainly true for Qile (Dr. Chen?  No, that sounds wrong).  In any event, at no point during the semester was Qile effective at presenting material, but while we were using the textbook, that only meant that we had to go back and learn from the book instead.\nLife changed for the worst during the last month when Chen went rogue with complex numbers (sidenote: \"Chen Went Rogue\" would be a great title for a Chinese political thriller).  I honestly have no idea whether I couldn't understand it because the material was actually difficult or was just incredibly poorly presented.  That makes class and homework especially unenjoyable for a few weeks.  \nI did well on Midterm 1, not too well on Midterm 2 (both averages ~80), and I assume not great on the final (I think everyone did pretty poorly on the final, though, so the curve was probably pretty generous), and ended up with an A-.\nWorkload:\nRelatively reasonable weekly problem sets, 2 midterms, final.  Grade is a bit heavily slanted toward the final (50% of grade, with only 10% for homework and 20% for each midterm).  Expect some time outside of class dedicated to relearning what was \"taught.\"\n"
+        }
+    ]
+}

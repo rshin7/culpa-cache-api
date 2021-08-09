@@ -1,0 +1,26 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Gianluigi Catelani",
+            "prof_id": 1875,
+            "total_reviews": 3
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": "Physics Lab",
+            "review_date": "May 19, 2004",
+            "review_content": "\nThis TA is the phoniest one I have ever seen in my life.  In my opinion, he has a very friendly camouflage in the class, but once he finds out that you are discussing lab reports with your partner, your final grade in that course will be around C- or F.  Just think twice when you meet that guy in your class, how could you avoid discussing how to write a lab report with your lab partner? He thinks that independent report work can be carried on after dependent lab work. \n"
+        },
+        {
+            "course_name": "Lab ",
+            "review_date": "May 19, 2004",
+            "review_content": "\nAbsolutely the worst TA I have ever had. He makes zero attempt in explaining the materials. His grading is totally unpredictable, without any humanly understandable standards whatsoever. \n"
+        },
+        {
+            "course_name": "Introduction to Experimental Physics",
+            "review_date": "December 20, 2003",
+            "review_content": "\nThis TA is an unreal guy!  Probably the nicest grad student I've ever met.  He's an Italian with the classic long haired look.  Very approachable and always helpful!  If you get the choice I strongly urge you to take him.\nWorkload:\nWeekly lab writeup, NO MIDTERMS or FINALS!\n"
+        }
+    ]
+}

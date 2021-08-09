@@ -1,0 +1,16 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Tamara Kucherenko",
+            "prof_id": 12661,
+            "total_reviews": 1
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": "4105 Probability ",
+            "review_date": "May 30, 2013",
+            "review_content": "\nThere are two flavors of probability offered at Columbia: 3105, and 4105. Both classes cover essentially the same material, with the exception that 4105 is open to graduate students from GSAS. Keep this point in mind when choosing between the two classes. \nThat being said, Probability is a difficult subject in its own right. The number one tip to succeeding in this class is to practice. A lot. You can never do enough practice problems and that idea is very well reflected in this class. Make sure you know your integrals as this class heavily uses calculus. There's a little bit of linear algebra at the end of the course when Markov Chains are covered, but don't fret: it's fairly straightforward. The course becomes significantly more difficult after the midterm when things like expectation and limit theorems are covered.   \nKucherenko is a great professor. She teaches at a fairly pedestrian rate but doesn't cover as much material as she would like each class because her example problems are not solved ahead of time. Because of this, a lot of class time is spent on computational problems, which takes away a bit from how much material is covered. Sometimes she will go for around 20 minutes looking for where she did a calculation wrong. But other than that, Kucherenko is great at explaining concepts and is responsive to emails. The TA's however, are not as much. They got much better in returning homeworks at the end of class, but a lot of students had to hunt down TAs for missing homeworks. Be sure to make sure all of your homeworks are counted and if not, email the TAs immediately. \nThe exams are really tough. Averages for the midterm and final hovered around 64%. Both exams are 5 problems each, with multiple parts per problem. Curves to around a B on the midterm, but not sure on the final or the overall class. Be sure to study a lot for the exams.\nWorkload:\nHomeworks each week of varying length (anywhere betweeen 15-30 problems) which include computational and theoretical (proof based) problems. 1 insane midterm and an even more insane final. \nHomework 30%, Midterm 30%, Final 40%.\n"
+        }
+    ]
+}

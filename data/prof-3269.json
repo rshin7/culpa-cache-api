@@ -1,0 +1,21 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Alexander Faber",
+            "prof_id": 3269,
+            "total_reviews": 2
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": "College Algebra - Analytic Geometry (Precalculus)",
+            "review_date": "June 29, 2008",
+            "review_content": "\nXander Faber is the best teacher I've ever had. Undoubtedly. \nHe is completely committed to ensuring that his students understand what they're doing and why they're doing it.  He makes time for his students and never made me feel stupid for asking questions. The course in itself is challenging, but no one could do a better job teaching this material.  So clear and concise.  His examples he uses in class are so accessible and easy to grasp.  Extraordinary talent for teaching.\nWorkload:\nReasonable.  Quizzes to make sure that you're on top of the material and regular homework.\n"
+        },
+        {
+            "course_name": "College Algebra - Analytic Geometry (Precalculus)",
+            "review_date": "August 10, 2007",
+            "review_content": "\nThis was a 6wk summer course, so fast and condensed:  Xander's lectures were very quick and confusing and did not help with my learning/comprehension of the material.  He assigned a lot of confusing homework (twice as much as the other class according to him) and his quizes and tests tended to be challenging.  I ended the semester feeling very frustrated with the course.  Xander is a nice guy and enjoys teaching, but he has awhile before he'll learn to teach effectively and at his students level.\nWorkload:\nVery High, lots of challenging homework.  Averaged about 16 hours of homework per week over a 6 week course.\n"
+        }
+    ]
+}

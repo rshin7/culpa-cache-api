@@ -1,0 +1,21 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Van Molino",
+            "prof_id": 11390,
+            "total_reviews": 2
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": "Numerical Methods",
+            "review_date": "January 07, 2014",
+            "review_content": "\nI have taken two courses with Van Molino. One of them was Functions of a Complex Variable, the other one Intro to Numerical Methods. And they were not only the most difficult math classes I've taken anywhere (quite a bit more difficult than PDE & Real Analysis), they were also the most frustrating, due to his inexplicable teaching style. \nHe never posts lecture slides, the reason for which is that he believes if he posts them people will stop coming to class. But anyone who's been to class knows that these lecture slides are just outlines and are by no means reasonable substitutes for the materials one has to absorb in class. In other math classes the professors would often post the lecture notes beforehand, so I wouldn't need to worry about having to copy them down frantically in class while trying to learn the materials, which is what I did in his lectures (lots and lots of notes). Besides, I believe if some students don't want to come to lectures it's entirely their loss, having paid for their education and all. Why Van Molino would accommodate them to the detriment of the whole class is beyond me.\nAnd like the other reviewer has pointed out, most of the problems he goes over in class are quite easy. They're nothing like the problems we have to solve in our assignments and exams. When he claims the hw will take 3-4 hrs a good rule of thumb is to double that time, and I've found myself in a few instances spending more than 9 hrs on a problem set, before either giving up or heading to office hour, which is right before the class starts and hence right before hw is due. \nExams are, simply put, nightmares. He doesn't give practice exams because, in his words, whatever problems he puts in practice exams will not appear in the real exams, so practice exams will not look anything like the real exams and thus serve no purpose. I can't help but feel this sophistry is really an excuse for him not to write practice exams. The real exams are horrendous. People walked out dumbfounded. I actually saw a girl cry. And many people did horribly not because they didn't take time to digest the materials, but simply because there was no way, given the way the class was designed, they could be properly prepared. Midterms and finals should be examinations of how thoroughly the students have mastered the materials, not emotional beat-downs.\nThe only good side is Van Molino is a decent lecturer and explains things fairly well. But that doesn't tip my verdict in his favor--avoid him at all costs.\nWorkload:\nWeekly assignments which he claimed took 3-4 hrs to complete, but took at least double the time. As for exams, good luck--you'll need it.\n"
+        },
+        {
+            "course_name": "Numerical Methods",
+            "review_date": "March 19, 2012",
+            "review_content": "\nThe only major advantage that Molino has to offer is that he speaks fluent English. Other than that, the guy is a terror. He is basically only on campus on Mondays, which means that he holds office hours right before class (which is incidentally when homework is due and exams are given). Furthermore, he doesn't post any sort of lecture notes or outline at all and rarely works with nontrivial Matlab in class. Incidentally, he doesn't give practice exams either so you're kind of in the dark to whatever terrors he deigns to throw at you.\nMolino and his TAs also seem extraordinarily lazy when it comes to posting solutions to assignments. They usually just scan some student's solutions and pass it off as their own. \nWorkload:\nWeekly problem sets (50% of grade) that he claims should take \"3-4 hours\" but somehow end up taking inordinate amounts of time because they have ~7 problems each. An extremely difficult midterm (20% of grade), where the average was in the 60s. I can only assume that his final (30% of grade) will warrant suicides.\n"
+        }
+    ]
+}

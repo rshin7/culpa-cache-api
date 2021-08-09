@@ -1,0 +1,16 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Haipeng Xing",
+            "prof_id": 3403,
+            "total_reviews": 1
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": "Linear Regression W4315 with Haipeng Xing",
+            "review_date": "December 17, 2007",
+            "review_content": "\nThis review is especially intended for MAFIN students who have a choice, either to take linear regression or take something else: the answer is TAKE SOMETHING ELSE ! There is not even the shadow of a doubt about that\nI took the linear regression course because I thought it was simple and would not require too much work... man I was wrong.\nFirst, he assigned us not 2 but 3 midterms ! All of these are basically the same so the value-added is ... zero.\nTalking of fruitless efforts, he also assigns homeworks every week. Not only are they very long, they also happen to be unbearably boring. There are zillions interesting things you can do with linear regression: apply it to geology, economics, finance, and so on. But no, Mr Xing decided you would estimate the average number of tapes sold by some obscure store in New Jersey. Oh but what if ? Oh my god ! what if the number of orders increased, how long would it take on average to service these additionnal orders ?\nI am sure that Mr Johns who owns a record store in New Jersey spends most of his time doing linear regression so he can estimate the impact on his week-end... that's why he took a master in statistics at Columbia before setting up his business. And today he thanks God for this wise move.\nWorkload:\nWAY TOO MUCH1 homework = 4 hours each week3 midterms + 1 final project (the latter takes 20 hours !)\n"
+        }
+    ]
+}

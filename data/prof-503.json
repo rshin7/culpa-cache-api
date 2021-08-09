@@ -1,0 +1,21 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Stuart Diamond",
+            "prof_id": 503,
+            "total_reviews": 2
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": "Basic Drawing",
+            "review_date": "December 06, 2003",
+            "review_content": "\nStuart's method of teaching initially feels confusing but if properly and patiently approached is more rewarding than that of perhaps any teacher I have ever had.\nWorkload:\nfair\n"
+        },
+        {
+            "course_name": "Basic Drawing",
+            "review_date": "December 31, 1999",
+            "review_content": "\nRepetition can lead to break throughs and innovation, he seems skilled at getting even the most resistant students to try something new by making everyone so frustrated with drawing the same still life over and over again. At times the class could feel like it was dragging, but sometimes something would come out that would be suprising. Diamond is a little to consumed with his own artistic critic, and his words can sound a little superfoulous during review, but he has a keen eye and can point out flaws that can only lead to you drawing a better piece.\nWorkload:\nfair grader, understanding of outside committments\n"
+        }
+    ]
+}

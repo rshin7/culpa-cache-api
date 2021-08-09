@@ -1,0 +1,26 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Sandro Fusco",
+            "prof_id": 5487,
+            "total_reviews": 3
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": "Numerical Methods",
+            "review_date": "May 03, 2013",
+            "review_content": "\nThe class material is EXCELLENT. The book is such a gem  -- having me exposed to so many interesting and mind-stirring topics that I am so excited to learn and apply for my research. But that was about all the good I have about this class.\nThe professor is TERRIBLE. As the other review mentioned, he can't answer students' questions. He simply reads off the textbook, so it seems he spends a very little time preparing for the class. His writing is so small and he writes so softly on the board so people from 3rd and up won't be able to see what we write -- let alone people who sit slightly on the side. I learn nothing from the lectures and I learn everything from the textbook. Why should we pay so much tuition to get a teacher of this quality? This class makes me question if Columbia should have some Quality Control policy to check if a professor can at least actually teach or not!\nWorkload:\nWeekly-ish problem sets\n1 midterm\n1 final\n"
+        },
+        {
+            "course_name": "Numerical Methods",
+            "review_date": "April 21, 2013",
+            "review_content": "\nOne of the very few professors that strongly make me question myself if coming to Columbia is a total mistake.\nReasons:\n1) His lecture is a painfully boring and utterly useless experience. He mumbles all the time and speaks in such a low voice that students not in the first three rows can barely hear. \nClass notes are useless too. If he uses notes or the textbook while lecturing (90% percent of the time), he would literally copy everything onto the blackboard - when you go home and open the book you would find your class notes is an almost exact copy of the book. \n2) He is INCAPABLE of teaching this course. Despite his try, he can rarely explain students' questions - in class or during office hours.\n3) The course is way too slow. It's already late April and we are still on polynomial interpolation (which a normal numerical methods course would cover on the 4th or 5th week). I seriously doubt if he can finish this course by the end of this semester.\n4) Irresponsible and terrible organization. Many students' homework got lost (mine included). The only solution he gave is to go to TAs.\n5) Prepare to learn everything on your own.\nWorkload:\nalright\n"
+        },
+        {
+            "course_name": "Calculus I",
+            "review_date": "July 23, 2010",
+            "review_content": "\nDr. Fusco knows Calc well. But that does not mean that he teaches well.  Every class was straight out of the book, so if I missed a class, all I had to do was read the section. \n  One thing that was very frustrating (as a precursor I will say I dont know if this is because he's foreign or something although that would be a lame excuse) is that he made you feel stupid for asking questions that were obvious to him but not to anyone else since mostly everyone was taking Calc for the first time.\n  Each midterm and final were fair, but with two TAs there were grading inconsistencies which was frustrating.\n  His office hours were 'after class' when he didnt seem to interested in trying to help you.  It seemed like he was tired and wanted to go home. I asked him a question about a homework grade and he brushed me away and told me to talk to the TA. I saw someone else ask a question about a midterm grade where he did the same thing. Yeah, TAs grade the stuff, but you are the teacher; you make the grading standards.\n  Homework was the best part since the cumulative homework score counted 20% which was as much as a midterm.\n \nWorkload:\nHomework due every week 20% of grade\n2 midterms, 1 final and 5% of your grade was class participation\n"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Christine Leja",
+            "prof_id": 2107,
+            "total_reviews": 2
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": "University Writing",
+            "review_date": "January 25, 2005",
+            "review_content": "\nChristine, as she prefers to be called, does an awesome job of making a class almost designed to suck into something actually worthwhile.  She chose articles that won't put you to sleep and made them relevant to college students' lives.  Christine is really easy to get in touch with and welcomes any questions you have either in or out of class.  Her help in revising my drafts was phenomenal.  \nWorkload:\nstandard university writing work.  four(?) papers, a couple of one page exercises after reading an article.  light reading.\n"
+        },
+        {
+            "course_name": "University Writing",
+            "review_date": "May 20, 2004",
+            "review_content": "\nChristine is a really sweet teacher.  She offers a lot of help if you need it and is always available outside of class.  She was pretty lax about how you chose to approach the boring and weird essays outlined by the department.  Sometimes she let the students talk too much.  Not a bad grader.\nWorkload:\nregular for UW\n"
+        }
+    ]
+}

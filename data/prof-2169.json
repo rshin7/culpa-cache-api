@@ -1,0 +1,21 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Will Horowitz",
+            "prof_id": 2169,
+            "total_reviews": 2
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": "Physics Lab",
+            "review_date": "November 03, 2004",
+            "review_content": "\nThis TA also treated me with thinly veiled contempt. Take another TA. He's not helpful in explaining things.\n"
+        },
+        {
+            "course_name": "General Physics Lab I",
+            "review_date": "September 10, 2004",
+            "review_content": "\nGraded fairly, yet treated me with thinly veiled contempt.  Some students didn't read labs at all before class, and I suspect they didn't fare well gradewise.  I strongly advise you visit the physics lab display room each week where the labs are set up (more or less) for viewing.  Prepare before you go, ask questions, and learn the tricks and pitfalls of that week's lab.  Any formulas that the labs asked us to derive were given to us by Will in class.\nWorkload:\n10 weekly lab writeups due in class.  Pre-lab can be prepared and brought to class - advisable.  1-7 hours per week of lab reading and pre-lab writing, depending on what kind of grade you'd like to get. \n"
+        }
+    ]
+}

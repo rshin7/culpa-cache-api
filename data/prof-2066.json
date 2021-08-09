@@ -1,0 +1,31 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Joanna Cheetham",
+            "prof_id": 2066,
+            "total_reviews": 4
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": "University Writing",
+            "review_date": "June 30, 2005",
+            "review_content": "\nI think Joanna is great.  She's really nice and gives helpful feedback on papers.  She always makes herself available to students and is generally pretty lax when it comes to deadlines.  UW in general is a waste of time, but I enjoyed the discussions we had in class even if the class didn't help my writing.\nWorkload:\nThe usual UW nonsense... reading, little assignments, 2 papers, a research paper, and a retrospective essay.\n"
+        },
+        {
+            "course_name": "University Writing",
+            "review_date": "September 17, 2004",
+            "review_content": "\nJoanna is a wonderful person and I had a much better time in her class than I expected I would.  She's always willing to help outside of class and gives really good feedback on papers.  She also notices when you're trying hard (which is good if you're like me and your paper sucks no matter how much time you spend on it) and she's very patient.  The only thing is that she doesn't really teach you how to write.  Instead the classes are centered around class discussion of the readings.  Still a very good class overall.\nWorkload:\nStandard UW: 4 essays and some short writing assignments (not graded)\n"
+        },
+        {
+            "course_name": "University Writing",
+            "review_date": "September 01, 2004",
+            "review_content": "\nShe's fantastic. Very insightful, very helpful. Dedicated to making you a better writer, and very real with evaluations. I highly recommend her class.\nWorkload:\ndepends what you want to get out of the class.\n"
+        },
+        {
+            "course_name": "University Writing",
+            "review_date": "May 07, 2004",
+            "review_content": "\nI thought Joanna did a great job in writing comments on my papers and helping me become a better writer.  The class discussions were generally boring and a waste of time.\nWorkload:\nNormal UW workload\n"
+        }
+    ]
+}

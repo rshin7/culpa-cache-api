@@ -1,0 +1,41 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Frank Wood",
+            "prof_id": 9939,
+            "total_reviews": 6
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": "Data Mining",
+            "review_date": "May 08, 2012",
+            "review_content": "\nFrank Wood is idiosyncratic to say the least. Check out his homepage and you'll see a portrait of him behind which is a background that makes him look enshrined in light.  \nAs previous reviewers have said, Wood spends most classes copying his notes, which are notably nearly _identical_ to those of the text, onto the blackboard.  He also derides applications of data mining (he's not training you to become a mining 'technician') though he sometimes admits he doesn't understand the (difficult) math that makes this stuff possible. On the first day of class, he seemed to brag about how much of the class was going to drop his course, as if that constituted some signal as to the quality of the the course. The bottom line here is that you need _serious_ stat background to get all you can out of the course. \nGiven that the math is difficult, getting a sense of the intuition the motivates results is useful and perhaps even necessary, but he doesn't offer this. Developing intuition is paramount in abstract math courses; data mining is no different and Wood ought to see this. Students are then left to develop intuition on their own. But this is difficult because the examples he gives in class are usually the same examples from the text.  \nIndeed, Data Mining, offered to both undergrads and masters (even phd students) is likely a tough course to teach: What can or should Wood assume that you know or don't know? It's tough to say, but it doesn't seem like he's found the right balance. \n\nWorkload:\nA series of coding assignments and a final project. The advising on the final projects is not so good, so be sure to choose a topic that you are _sure_ you can actually implement.\n"
+        },
+        {
+            "course_name": "Data Mining",
+            "review_date": "May 01, 2012",
+            "review_content": "\nThis class was phenomenal.  I was on the fence about taking it initially and I am so pleased that I decided to see it out.\nThis class snowballs from this kind of basic, probabilistic manipulation into a new fundamental outlook on the use and future of modern statistics.  The homeworks are interesting and help understand the transformation from formula to code at a perfect pace.\nThe lectures are downright awesome.  Frank actually cares about what he's teaching, and he actively engages the class.  He is also a very to-the-point guy, which helps to avoid any small misunderstandings that could easily accumulate due to the nature of the material.\nBest class and best teacher I've had while I've been here, hands down.\nWorkload:\nYou need to understand how to program on a fundamental level for this class.  If you don't, take 2-4 weeks before the class and read through a couple of introductory programming texts.\nYou need a basic understanding of probability and stat inference, and as the class goes on you can learn the minutiae of particular distributions week-by-week.  Again, if you're not solid on this, spend a couple of weeks before class and review basic stat inference and basic probability.\nHomeworks can be time consuming, but the work load isn't anything you wouldn't expect considering you pay ~5g's to take the class.  They are also spaced out enough that it really is manageable\nThe final project is what makes this class.  At first you think you're lost and have no idea how to pick a topic.  Then you think you know what you're doing, but soon realize you don't.  Then you kind of get it and start feverishly working on, in my case (and for many others I assume), the most interesting project you've ever done.  This class prepares you for statistics in the real and academic worlds, and shows you how freaking cool it can be.\nThank you, Frank.\n"
+        },
+        {
+            "course_name": "Data Mining",
+            "review_date": "March 07, 2012",
+            "review_content": "\nClass was very poorly taught, the \"lectures\" were pretty much Frank copying from his notes onto the chalkboard.  Sometimes he would spend up to a minute copying down long derivations from his notes.  Vague questions are also his thing - expect many \"what would this mean\" thrown at the class while everyone is struggling to figure out what aspect he is talking about.\nOne of the TAs is essentially unreachable (the male one), especially with all the office hour cancellations and his policy of not responding to emails.  The other one is more responsive to emails and questions.\nLearn to love the textbook.\nWorkload:\nTime-consuming but not too difficult homeworks, you need to be very detail-oriented as well.\n"
+        },
+        {
+            "course_name": "Data Mining",
+            "review_date": "December 06, 2011",
+            "review_content": "\nThis class will kick your ass and make you a better person.\n \n... culpa won't let me submit unless I write more ... not sure what else to say about this class... here's some advice: get to know matlab early, read bishop extensively, talk to prof wood and TAs, try out the math underlying each assignment best you can, understand the few key prob distributions used extensively in this class and statistical machine learning, really understand Bayes.\n \n \nWorkload:\n5 or so large projects, 1 extensive final project, no tests\n"
+        },
+        {
+            "course_name": "Data Mining",
+            "review_date": "June 21, 2011",
+            "review_content": "\nIn short, he's a really good professor.\nIf you are interested in machine learning, I feel that this class does the best job of teaching it at columbia. Put effort into this class and you will learn an amazing amount. I feel like many of us were very personally invested in this class by the end of the semester (I was for sure).\nIn lectures, he was somehow able to make the whole class so intensely focused and interested in what we were doing---more than any class I've taken at columbia. Everyone became extremely engaged with what we were studying.\nWorkload:\nHard but doable assignments and a final project.\n"
+        },
+        {
+            "course_name": "Data Mining",
+            "review_date": "May 15, 2011",
+            "review_content": "\nFrank makes a class as mathematically technical as Data Mining feel like a seminar or a conversation. This is what distinguishes himself as a professor and his class as a jewel not just in the Stats department, but in Columbia's scientific community.\nI was impressed with how familiar Frank was with my final project, given how many class projects he had to work with. I think this really shows how much Frank cares about his students.\nWorkload:\n5 programming assignments. 1 final project. Alright if you're used to coding.\n"
+        }
+    ]
+}

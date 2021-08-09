@@ -1,0 +1,21 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Sarah R. Cole",
+            "prof_id": 2453,
+            "total_reviews": 2
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": "University Writing",
+            "review_date": "January 09, 2005",
+            "review_content": "\nSarah Cole has been perhaps the most amazing teacher I've ever had. Her grading is fair, the workload adequate, not too much, but not too little, and she's very easy to talk to. If you have any problems with your writing, she will do her best to help you overcome them. I've heard that some UWriting classes are terrible, but I actually looked forward to this one.\n"
+        },
+        {
+            "course_name": "University Writing",
+            "review_date": "May 13, 2002",
+            "review_content": "\n(Not to be confused with the Mod. Brit Lit prof of the same name) She is a great L&R; teacher. She guides the class discussions well and manages to critique the student without making the student defensive. She is a relatively easy grader, and her comments are always helpful and insightful, pointing out inconsistencies in your argument. She's also very sweet, accessible, and encouraging. Consider yourself lucky if you get Ms. Cole. \nWorkload:\ntypical workload, but topics aren't so bad\n"
+        }
+    ]
+}

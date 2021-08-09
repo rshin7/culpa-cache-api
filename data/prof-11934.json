@@ -1,0 +1,26 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Po-Ning Chen",
+            "prof_id": 11934,
+            "total_reviews": 3
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": "Ordinary Differential Equations",
+            "review_date": "July 26, 2014",
+            "review_content": "\nI found Prof. Chen to be straightforward and reasonable.  His office hours are generally pretty empty, so be sure to go to ask your questions (and keep reminding him of your name).  His course had a pretty heavy curve, and I did not find it difficult to get a good grade.  Just stay on top of the material, do the homework, and check your answers in the solutions manual.  I'd also recommend studying from the book series' study guide.\nWorkload:\nLight: short problem sets.\n"
+        },
+        {
+            "course_name": "Ordinary Differential Equations",
+            "review_date": "January 05, 2014",
+            "review_content": "\nPretty boring course. It consists of being given a new way of solving a very specific type of ordinary differential equation each class. The good part is that you don't have to really understand the material to do decently in this class, you just have to remember what to do when you are confronted with a particular kind of problem. It's kind of like memorizing an instruction manual. Chen spends each class writing down examples of problems on the board and solving them. The bad part is that Chen does not give you an intuitive or proof based understanding of why the methods work. The textbook doesn't help much in this regard either as it presents concepts in an over-complicated way. Furthermore, there is no application of what you learn to even slightly realistic situations as there are no word problems, just equations to solve. Also beware that a significant part of this course requires linear algebra to understand. You need to understand eigenvectors to really grasp how to deal with systems of differential equations and how to represent solutions graphically. In the absence of this you are forced to again memorise graphs for each type of solution. Chen also for some reason skipped LaPlace Transforms which every other section of ODE seems to cover. All in all, a pretty frustrating class.\nWorkload:\nSee review below\n"
+        },
+        {
+            "course_name": "Ordinary Differential Equations",
+            "review_date": "December 30, 2013",
+            "review_content": "\nExactly what you would expect, no more and no less. \nAs straightforward as they get, this is a course where you can definitely get by without attending a single class. The book is clear, the solutions to the HW are in the back of the book (make sure to get or have access to the right edition!), tests are straightforward (with the exception of the second midterm which had a couple of odd questions). \nChen's English is decent and understandable, and he is relatively approachable, answering homework questions in office hours and very willing to raise grades harshly given by the TA. Every lecture consists of the basic mechanics of some new technique and then examples. \nIf you want a simple, easy, no-frills introduction to ODEs to satisfy a requirement or some such, this is the course for you. If you're interested in the theory, the higher math, the ideas- look somewhere else. But Chen does an excellent job of delivering on the course as it is.\nWorkload:\nTwice weekly problem sets (10%)- short, but sometimes you can get stuck on things, so just allow yourself to go to the math help room or office hours if so (aim to get 100% on homework). Two midterms (25% each) and a final (40%), all pretty straightforward.\nBeware of a question on the uniqueness and existence theorem when that comes up (probably the second midterm), it tripped me and much of the class up. \n"
+        }
+    ]
+}

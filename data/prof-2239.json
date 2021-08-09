@@ -1,0 +1,31 @@
+{
+    "prof_info": [
+        {
+            "prof_name": "Horst Stormer",
+            "prof_id": 2239,
+            "total_reviews": 4
+        }
+    ],
+    "reviews": [
+        {
+            "course_name": null,
+            "review_date": null,
+            "review_content": null
+        },
+        {
+            "course_name": null,
+            "review_date": null,
+            "review_content": null
+        },
+        {
+            "course_name": "Frontiers of Science",
+            "review_date": "May 07, 2007",
+            "review_content": "\nAs Frontiers seminar leaders go, you could do worse than a Nobel Prize-wining physicist. Horst\u00c2\u2019s section is very laid back; basically all you do is go over lecture questions and discuss them. This leads to a few issues, though: we never started the assignment we were supposed to do in seminar until there were only 20 minutes left in the period, and then we'd have to rush through the activity so quickly that it was hardly worth doing at all. Horst also doesn't take the time to talk about the little things that are most important for Frontiers - it took a lot of wheedling to get him to explain in simple terms how to do a Gaussian distribution because he assumed that we knew how to do it already. Horst is great one-on-one (if you\u00c2\u2019re having trouble, just go to his office hours every week \u00c2\u2013 you\u00c2\u2019ll get 20/20 on WIAs every time), but not for a large group; I felt very unprepared for the midterm because of how we spent our time in class. He's a nice person and occasionally hilarious, but you might get the most out of Frontiers (which isn't going to be a lot either way, let's face it) with another section leader.\nWorkload:\nWeekly Individual Assignments that really are weekly (you never get a break), lecture questions due at midnight the day of every lecture, impossible midterm and slightly easier final. Do the extra credit assignment - you can get a maximum 5% boost on your grade.\n"
+        },
+        {
+            "course_name": "Seminar: Problems in Applied Physics",
+            "review_date": "November 29, 2004",
+            "review_content": "\nThe Applied Physics Department knew what they were doing when they got Prof Stormer to lead the seminar. He's one of the friendliest professors i've had a class with, and his sense of humor and collection of anecdotes keeps class entertaining.\nThe Applied Physics Seminar is probably the easiest course required for the major, at least at the Junior level. For the first half of the semester, sessions consisted of the whole class attempting to solve some sort of random problem-- posed by professor Stormer at the beginning of class-- to the nearest order of magnitude. The second half of the semester consisted of the Seniors giving presentations on various aspects of applied physics (anything from Quantum Dot lasers, to keeping warm in the winter).\nWorkload:\nAs Junior, attendance 1x a week.\nAs a Senior, attendance 2x a week, GRE review Qs 1x a week for first half, presentations for the second half.\n"
+        }
+    ]
+}
