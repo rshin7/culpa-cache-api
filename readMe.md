@@ -1,4 +1,4 @@
-## API (Express.js)
+# API (Express.js)
 
 Created by: [Richard Shin](https://www.rshin.dev/)
 
