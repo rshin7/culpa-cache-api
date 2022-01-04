@@ -21,3 +21,6 @@ This is the API  currently supports two types of GET requests:
     * If manually scraping you'll need to move the `data` folder where all the scraped .json files are into the directory where this API is.
     * If using the compiled raw_data.tar.gz, you'll need to unzip the `data` folder into the directory where this API is.
 3. Start API (`npm start`)
+
+## License
+[GNU General Public License v3.0](https://github.com/rshin7/culpa-cache-api/blob/master/LICENSE.md)
